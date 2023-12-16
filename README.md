@@ -3,9 +3,9 @@
 
 **注意！此附属目前还在持续更新，更多有用机器材料敬请期待！**
 ## 图片展示
-[![附属列表](https://s11.ax1x.com/2023/12/16/pi476IJ.png)]
-[![分类列表](https://s11.ax1x.com/2023/12/16/pi472GR.png)]
-[![矿物扩展分类](https://s11.ax1x.com/2023/12/16/pi474sK.png)]
+![附属列表](https://s11.ax1x.com/2023/12/16/pi476IJ.png)
+![分类列表](https://s11.ax1x.com/2023/12/16/pi472GR.png)
+![矿物扩展分类](https://s11.ax1x.com/2023/12/16/pi474sK.png)
 
 ## 前置插件需求
 - Slimefun
