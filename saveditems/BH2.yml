@@ -1,0 +1,26 @@
+item:
+  ==: org.bukkit.inventory.ItemStack
+  v: 2860
+  type: CRYING_OBSIDIAN
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":true,"color":"black","text":"ii5as崩"},{"bold":true,"italic":false,"strikethrough":true,"obfuscated":false,"color":"dark_red","text":"
+      — "},{"bold":true,"italic":true,"strikethrough":false,"color":"dark_gray","text":"崩
+      "},{"bold":true,"italic":false,"color":"dark_red","text":"- "},{"bold":true,"italic":false,"color":"gray","text":"坏
+      "},{"bold":true,"italic":false,"strikethrough":true,"color":"dark_red","text":";:>>/
+      "},{"bold":true,"italic":false,"strikethrough":false,"obfuscated":true,"color":"black","text":"坏keji:;"}],"text":""}'
+    lore:
+    - '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"加入尘埃之后好像更不稳定了"}],"text":""}'
+    - '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"dark_gray","text":"感觉可以更进一步"}],"text":""}'
+    - '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"black","text":"不知道会出来什么东西"}],"text":""}'
+    enchants:
+      ARROW_INFINITE: 1
+    ItemFlags:
+    - HIDE_ENCHANTS
+    - HIDE_ATTRIBUTES
+    - HIDE_UNBREAKABLE
+    - HIDE_DESTROYS
+    - HIDE_PLACED_ON
+    - HIDE_POTION_EFFECTS
+    - HIDE_DYE

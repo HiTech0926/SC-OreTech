@@ -1,0 +1,7063 @@
+HIWORLD_ORETECH_INFO:
+  category: hiworld_oretech_info
+  item-type: CUSTOM
+  item-name: "&x&f&c&f&c&8&9&l&n附&x&f&9&f&9&a&4&l&n属&x&f&6&f&6&b&f&l&n信&x&f&3&f&3&d&a&l&n息"
+  item-lore:
+  - "&f--------------------[前言]--------------------"
+  - "&7该附属最初由Chenmose和HiTech0926共同完成"
+  - "&7现已全部由HiTech0926更新和维护"
+  - "&f--------------------[信息]--------------------"
+  - "&7开始开发时间：2023.07.01"
+  - "&7第一版本完工时间：2023.12.16"
+  - "&7基础/初期开发者：Chenmose"
+  - "&7优化/修改/后续开发者：HiTech0926"
+  - "&f--------------------[介绍]--------------------"
+  - "&7此附属的目的是为了让原版矿物变得更加有用"
+  - "&7同时也增加了一些新的矿物获取方式"
+  - "&f--------------------[联系]--------------------"
+  - "&cBUG反馈/建议提供请联系QQ 2025138508"
+  - "&c修改建议/玩法咨询请联系QQ 1910428053"
+  - "&f----------------------------------------------"
+  item-id: PAPER
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+HIWORLD_ORETECH_VERSION:
+  category: hiworld_oretech_info
+  item-type: CUSTOM
+  item-name: "&x&f&c&f&c&8&9&l&n附&x&f&9&f&9&a&4&l&n属&x&f&6&f&6&b&f&l&n版&x&f&3&f&3&d&a&l&n本"
+  item-lore:
+  - "&f--------------------[版本]--------------------"
+  - "&aHi世界矿物科技版本号："
+  - "&aBETA-1.0"
+  - "&c您在反馈时务必带上附属版本号和粘液科技版本号！"
+  - "&f----------------------------------------------"
+  item-id: PAPER
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+HIWORLD_ORETECH_HITECH0926:
+  category: hiworld_oretech_info
+  item-type: CUSTOM
+  item-name: "&e&lHiTech0926的头"
+  item-lore:
+  - "&7Hi世界服务器腐竹"
+  - "&7Hi世界矿物科技作者之一"
+  item-id: SKULL5a3ecdc22822be0b9ea8009437a11ddc7cda15bac6b96a2731e3144fe72036af
+  item-amount: 1
+  placeable: true
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: VANILLA
+      id: IRON_ORE
+      amount: 1
+    5:
+      type: VANILLA
+      id: IRON_ORE
+      amount: 1
+    6:
+      type: VANILLA
+      id: IRON_ORE
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+HIWORLD_ORETECH_CHENMOSE:
+  category: hiworld_oretech_info
+  item-type: CUSTOM
+  item-name: "&e&lChenmose的头"
+  item-lore:
+  - "&7Hi世界服务器前任管理员"
+  - "&7Hi世界矿物科技作者之一"
+  item-id: SKULLba16506e12fb87925b44008bafaee2f0220e920d686b09180c3098980fd1b4c8
+  item-amount: 1
+  placeable: true
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: VANILLA
+      id: IRON_ORE
+      amount: 2
+    5:
+      type: VANILLA
+      id: IRON_ORE
+      amount: 2
+    6:
+      type: VANILLA
+      id: IRON_ORE
+      amount: 2
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+HIWORLD_ORETECH_EXTEND_YSTK1:
+  category: hiworld_oretech_extend
+  item-type: CUSTOM
+  item-name: "&f&l一阶压缩铁块"
+  item-lore:
+  - "&7由81个铁锭压缩而成"
+  item-id: IRON_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: VANILLA
+      id: IRON_BLOCK
+      amount: 1
+    2:
+      type: VANILLA
+      id: IRON_BLOCK
+      amount: 1
+    3:
+      type: VANILLA
+      id: IRON_BLOCK
+      amount: 1
+    4:
+      type: VANILLA
+      id: IRON_BLOCK
+      amount: 1
+    5:
+      type: VANILLA
+      id: IRON_BLOCK
+      amount: 1
+    6:
+      type: VANILLA
+      id: IRON_BLOCK
+      amount: 1
+    7:
+      type: VANILLA
+      id: IRON_BLOCK
+      amount: 1
+    8:
+      type: VANILLA
+      id: IRON_BLOCK
+      amount: 1
+    9:
+      type: VANILLA
+      id: IRON_BLOCK
+      amount: 1
+HIWORLD_ORETECH_EXTEND_YSTK2:
+  category: hiworld_oretech_extend
+  item-type: CUSTOM
+  item-name: "&f&l二阶压缩铁块"
+  item-lore:
+  - "&7由729个铁锭压缩而成"
+  item-id: IRON_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSTK1
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSTK1
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSTK1
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSTK1
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSTK1
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSTK1
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSTK1
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSTK1
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSTK1
+      amount: 1
+HIWORLD_ORETECH_EXTEND_YSTK3:
+  category: hiworld_oretech_extend
+  item-type: CUSTOM
+  item-name: "&f&l三阶压缩铁块"
+  item-lore:
+  - "&7由6561个铁锭压缩而成"
+  item-id: IRON_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSTK2
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSTK2
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSTK2
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSTK2
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSTK2
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSTK2
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSTK2
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSTK2
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSTK2
+      amount: 1
+HIWORLD_ORETECH_EXTEND_YSTK4:
+  category: hiworld_oretech_extend
+  item-type: CUSTOM
+  item-name: "&f&l四阶压缩铁块"
+  item-lore:
+  - "&7由59049个铁锭压缩而成"
+  item-id: IRON_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSTK3
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSTK3
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSTK3
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSTK3
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSTK3
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSTK3
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSTK3
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSTK3
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSTK3
+      amount: 1
+HIWORLD_ORETECH_EXTEND_YSTK5:
+  category: hiworld_oretech_extend
+  item-type: CUSTOM
+  item-name: "&f&l五阶压缩铁块"
+  item-lore:
+  - "&7由531441个铁锭压缩而成"
+  item-id: IRON_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSTK4
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSTK4
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSTK4
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSTK4
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSTK4
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSTK4
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSTK4
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSTK4
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSTK4
+      amount: 1
+HIWORLD_ORETECH_EXTEND_YSTK6:
+  category: hiworld_oretech_extend
+  item-type: CUSTOM
+  item-name: "&f&l六阶压缩铁块"
+  item-lore:
+  - "&7由4782969个铁锭压缩而成"
+  item-id: IRON_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSTK5
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSTK5
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSTK5
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSTK5
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSTK5
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSTK5
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSTK5
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSTK5
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSTK5
+      amount: 1
+HIWORLD_ORETECH_EXTEND_YSTK7:
+  category: hiworld_oretech_extend
+  item-type: CUSTOM
+  item-name: "&f&l七阶压缩铁块"
+  item-lore:
+  - "&7由43046721个铁锭压缩而成"
+  item-id: IRON_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSTK6
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSTK6
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSTK6
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSTK6
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSTK6
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSTK6
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSTK6
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSTK6
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSTK6
+      amount: 1
+HIWORLD_ORETECH_EXTEND_YSTK8:
+  category: hiworld_oretech_extend
+  item-type: CUSTOM
+  item-name: "&f&l八阶压缩铁块"
+  item-lore:
+  - "&7由387420489个铁锭压缩而成"
+  item-id: IRON_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSTK7
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSTK7
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSTK7
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSTK7
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSTK7
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSTK7
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSTK7
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSTK7
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSTK7
+      amount: 1
+HIWORLD_ORETECH_EXTEND_YSTK9:
+  category: hiworld_oretech_extend
+  item-type: CUSTOM
+  item-name: "&f&l九阶压缩铁块"
+  item-lore:
+  - "&7由3486784401个铁锭压缩而成"
+  - "&4&k&l&&&&e&l终极方块&4&k&l&&&"
+  item-id: IRON_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSTK8
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSTK8
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSTK8
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSTK8
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSTK8
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSTK8
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSTK8
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSTK8
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSTK8
+      amount: 1
+HIWORLD_ORETECH_EXTEND_YSZSK1:
+  category: hiworld_oretech_extend
+  item-type: CUSTOM
+  item-name: "&b&l一阶压缩钻石块"
+  item-lore:
+  - "&7由81个钻石压缩而成"
+  item-id: DIAMOND_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: VANILLA
+      id: DIAMOND_BLOCK
+      amount: 1
+    2:
+      type: VANILLA
+      id: DIAMOND_BLOCK
+      amount: 1
+    3:
+      type: VANILLA
+      id: DIAMOND_BLOCK
+      amount: 1
+    4:
+      type: VANILLA
+      id: DIAMOND_BLOCK
+      amount: 1
+    5:
+      type: VANILLA
+      id: DIAMOND_BLOCK
+      amount: 1
+    6:
+      type: VANILLA
+      id: DIAMOND_BLOCK
+      amount: 1
+    7:
+      type: VANILLA
+      id: DIAMOND_BLOCK
+      amount: 1
+    8:
+      type: VANILLA
+      id: DIAMOND_BLOCK
+      amount: 1
+    9:
+      type: VANILLA
+      id: DIAMOND_BLOCK
+      amount: 1
+HIWORLD_ORETECH_EXTEND_YSZSK2:
+  category: hiworld_oretech_extend
+  item-type: CUSTOM
+  item-name: "&b&l二阶压缩钻石块"
+  item-lore:
+  - "&7由729个钻石压缩而成"
+  item-id: DIAMOND_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSZSK1
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSZSK1
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSZSK1
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSZSK1
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSZSK1
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSZSK1
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSZSK1
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSZSK1
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSZSK1
+      amount: 1
+HIWORLD_ORETECH_EXTEND_YSZSK3:
+  category: hiworld_oretech_extend
+  item-type: CUSTOM
+  item-name: "&b&l三阶压缩钻石块"
+  item-lore:
+  - "&7由6561个钻石压缩而成"
+  item-id: DIAMOND_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSZSK2
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSZSK2
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSZSK2
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSZSK2
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSZSK2
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSZSK2
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSZSK2
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSZSK2
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSZSK2
+      amount: 1
+HIWORLD_ORETECH_EXTEND_YSZSK4:
+  category: hiworld_oretech_extend
+  item-type: CUSTOM
+  item-name: "&b&l四阶压缩钻石块"
+  item-lore:
+  - "&7由59049个钻石压缩而成"
+  item-id: DIAMOND_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSZSK3
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSZSK3
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSZSK3
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSZSK3
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSZSK3
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSZSK3
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSZSK3
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSZSK3
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSZSK3
+      amount: 1
+HIWORLD_ORETECH_EXTEND_YSZSK5:
+  category: hiworld_oretech_extend
+  item-type: CUSTOM
+  item-name: "&b&l五阶压缩钻石块"
+  item-lore:
+  - "&7由531441个钻石压缩而成"
+  item-id: DIAMOND_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSZSK4
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSZSK4
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSZSK4
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSZSK4
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSZSK4
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSZSK4
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSZSK4
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSZSK4
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSZSK4
+      amount: 1
+HIWORLD_ORETECH_EXTEND_YSZSK6:
+  category: hiworld_oretech_extend
+  item-type: CUSTOM
+  item-name: "&b&l六阶压缩钻石块"
+  item-lore:
+  - "&7由4782969个钻石压缩而成"
+  item-id: DIAMOND_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSZSK5
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSZSK5
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSZSK5
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSZSK5
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSZSK5
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSZSK5
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSZSK5
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSZSK5
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSZSK5
+      amount: 1
+HIWORLD_ORETECH_EXTEND_YSZSK7:
+  category: hiworld_oretech_extend
+  item-type: CUSTOM
+  item-name: "&b&l七阶压缩钻石块"
+  item-lore:
+  - "&7由43046721个钻石压缩而成"
+  item-id: DIAMOND_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSZSK6
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSZSK6
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSZSK6
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSZSK6
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSZSK6
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSZSK6
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSZSK6
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSZSK6
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSZSK6
+      amount: 1
+HIWORLD_ORETECH_EXTEND_YSZSK8:
+  category: hiworld_oretech_extend
+  item-type: CUSTOM
+  item-name: "&b&l八阶压缩钻石块"
+  item-lore:
+  - "&7由387420489个钻石压缩而成"
+  item-id: DIAMOND_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSZSK7
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSZSK7
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSZSK7
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSZSK7
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSZSK7
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSZSK7
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSZSK7
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSZSK7
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSZSK7
+      amount: 1
+HIWORLD_ORETECH_EXTEND_YSZSK9:
+  category: hiworld_oretech_extend
+  item-type: CUSTOM
+  item-name: "&b&l九阶压缩钻石块"
+  item-lore:
+  - "&7由3486784401个钻石压缩而成"
+  - "&4&k&l&&&&e&l终极方块&4&k&l&&&"
+  item-id: DIAMOND_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSZSK8
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSZSK8
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSZSK8
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSZSK8
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSZSK8
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSZSK8
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSZSK8
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSZSK8
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSZSK8
+      amount: 1
+HIWORLD_ORETECH_EXTEND_YSJK1:
+  category: hiworld_oretech_extend
+  item-type: CUSTOM
+  item-name: "&e&l一阶压缩金块"
+  item-lore:
+  - "&7由81个金锭压缩而成"
+  item-id: GOLD_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: VANILLA
+      id: GOLD_BLOCK
+      amount: 1
+    2:
+      type: VANILLA
+      id: GOLD_BLOCK
+      amount: 1
+    3:
+      type: VANILLA
+      id: GOLD_BLOCK
+      amount: 1
+    4:
+      type: VANILLA
+      id: GOLD_BLOCK
+      amount: 1
+    5:
+      type: VANILLA
+      id: GOLD_BLOCK
+      amount: 1
+    6:
+      type: VANILLA
+      id: GOLD_BLOCK
+      amount: 1
+    7:
+      type: VANILLA
+      id: GOLD_BLOCK
+      amount: 1
+    8:
+      type: VANILLA
+      id: GOLD_BLOCK
+      amount: 1
+    9:
+      type: VANILLA
+      id: GOLD_BLOCK
+      amount: 1
+HIWORLD_ORETECH_EXTEND_YSJK2:
+  category: hiworld_oretech_extend
+  item-type: CUSTOM
+  item-name: "&e&l二阶压缩金块"
+  item-lore:
+  - "&7由729个金锭压缩而成"
+  item-id: GOLD_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSJK1
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSJK1
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSJK1
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSJK1
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSJK1
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSJK1
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSJK1
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSJK1
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSJK1
+      amount: 1
+HIWORLD_ORETECH_EXTEND_YSJK3:
+  category: hiworld_oretech_extend
+  item-type: CUSTOM
+  item-name: "&e&l三阶压缩金块"
+  item-lore:
+  - "&7由6561个金锭压缩而成"
+  item-id: GOLD_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSJK2
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSJK2
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSJK2
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSJK2
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSJK2
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSJK2
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSJK2
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSJK2
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSJK2
+      amount: 1
+HIWORLD_ORETECH_EXTEND_YSJK4:
+  category: hiworld_oretech_extend
+  item-type: CUSTOM
+  item-name: "&e&l四阶压缩金块"
+  item-lore:
+  - "&7由59049个金锭压缩而成"
+  item-id: GOLD_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSJK3
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSJK3
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSJK3
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSJK3
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSJK3
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSJK3
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSJK3
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSJK3
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSJK3
+      amount: 1
+HIWORLD_ORETECH_EXTEND_YSJK5:
+  category: hiworld_oretech_extend
+  item-type: CUSTOM
+  item-name: "&e&l五阶压缩金块"
+  item-lore:
+  - "&7由531441个金锭压缩而成"
+  item-id: GOLD_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSJK4
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSJK4
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSJK4
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSJK4
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSJK4
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSJK4
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSJK4
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSJK4
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSJK4
+      amount: 1
+HIWORLD_ORETECH_EXTEND_YSJK6:
+  category: hiworld_oretech_extend
+  item-type: CUSTOM
+  item-name: "&e&l六阶压缩金块"
+  item-lore:
+  - "&7由4782969个金锭压缩而成"
+  item-id: GOLD_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSJK5
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSJK5
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSJK5
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSJK5
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSJK5
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSJK5
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSJK5
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSJK5
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSJK5
+      amount: 1
+HIWORLD_ORETECH_EXTEND_YSJK7:
+  category: hiworld_oretech_extend
+  item-type: CUSTOM
+  item-name: "&e&l七阶压缩金块"
+  item-lore:
+  - "&7由43046721个金锭压缩而成"
+  item-id: GOLD_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSJK6
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSJK6
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSJK6
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSJK6
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSJK6
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSJK6
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSJK6
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSJK6
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSJK6
+      amount: 1
+HIWORLD_ORETECH_EXTEND_YSJK8:
+  category: hiworld_oretech_extend
+  item-type: CUSTOM
+  item-name: "&e&l八阶压缩金块"
+  item-lore:
+  - "&7由387420489个金锭压缩而成"
+  item-id: GOLD_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSJK7
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSJK7
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSJK7
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSJK7
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSJK7
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSJK7
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSJK7
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSJK7
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSJK7
+      amount: 1
+HIWORLD_ORETECH_EXTEND_YSJK9:
+  category: hiworld_oretech_extend
+  item-type: CUSTOM
+  item-name: "&e&l九阶压缩金块"
+  item-lore:
+  - "&7由3486784401个金锭压缩而成"
+  - "&4&k&l&&&&e&l终极方块&4&k&l&&&"
+  item-id: GOLD_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSJK8
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSJK8
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSJK8
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSJK8
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSJK8
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSJK8
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSJK8
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSJK8
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSJK8
+      amount: 1
+HIWORLD_ORETECH_EXTEND_YSMTK1:
+  category: hiworld_oretech_extend
+  item-type: CUSTOM
+  item-name: "&8&l一阶压缩煤炭块"
+  item-lore:
+  - "&7由81个煤炭压缩而成"
+  item-id: COAL_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: VANILLA
+      id: COAL_BLOCK
+      amount: 1
+    2:
+      type: VANILLA
+      id: COAL_BLOCK
+      amount: 1
+    3:
+      type: VANILLA
+      id: COAL_BLOCK
+      amount: 1
+    4:
+      type: VANILLA
+      id: COAL_BLOCK
+      amount: 1
+    5:
+      type: VANILLA
+      id: COAL_BLOCK
+      amount: 1
+    6:
+      type: VANILLA
+      id: COAL_BLOCK
+      amount: 1
+    7:
+      type: VANILLA
+      id: COAL_BLOCK
+      amount: 1
+    8:
+      type: VANILLA
+      id: COAL_BLOCK
+      amount: 1
+    9:
+      type: VANILLA
+      id: COAL_BLOCK
+      amount: 1
+HIWORLD_ORETECH_EXTEND_YSMTK2:
+  category: hiworld_oretech_extend
+  item-type: CUSTOM
+  item-name: "&8&l二阶压缩煤炭块"
+  item-lore:
+  - "&7由729个煤炭压缩而成"
+  item-id: COAL_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSMTK1
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSMTK1
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSMTK1
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSMTK1
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSMTK1
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSMTK1
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSMTK1
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSMTK1
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSMTK1
+      amount: 1
+HIWORLD_ORETECH_EXTEND_YSMTK3:
+  category: hiworld_oretech_extend
+  item-type: CUSTOM
+  item-name: "&8&l三阶压缩煤炭块"
+  item-lore:
+  - "&7由6561个煤炭压缩而成"
+  item-id: COAL_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSMTK2
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSMTK2
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSMTK2
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSMTK2
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSMTK2
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSMTK2
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSMTK2
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSMTK2
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSMTK2
+      amount: 1
+HIWORLD_ORETECH_EXTEND_YSMTK4:
+  category: hiworld_oretech_extend
+  item-type: CUSTOM
+  item-name: "&8&l四阶压缩煤炭块"
+  item-lore:
+  - "&7由59049个煤炭压缩而成"
+  item-id: COAL_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSMTK3
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSMTK3
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSMTK3
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSMTK3
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSMTK3
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSMTK3
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSMTK3
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSMTK3
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSMTK3
+      amount: 1
+HIWORLD_ORETECH_EXTEND_YSMTK5:
+  category: hiworld_oretech_extend
+  item-type: CUSTOM
+  item-name: "&8&l五阶压缩煤炭块"
+  item-lore:
+  - "&7由531441个煤炭压缩而成"
+  item-id: COAL_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSMTK4
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSMTK4
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSMTK4
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSMTK4
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSMTK4
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSMTK4
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSMTK4
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSMTK4
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSMTK4
+      amount: 1
+HIWORLD_ORETECH_EXTEND_YSMTK6:
+  category: hiworld_oretech_extend
+  item-type: CUSTOM
+  item-name: "&8&l六阶压缩煤炭块"
+  item-lore:
+  - "&7由4782969个煤炭压缩而成"
+  item-id: COAL_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSMTK5
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSMTK5
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSMTK5
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSMTK5
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSMTK5
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSMTK5
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSMTK5
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSMTK5
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSMTK5
+      amount: 1
+HIWORLD_ORETECH_EXTEND_YSMTK7:
+  category: hiworld_oretech_extend
+  item-type: CUSTOM
+  item-name: "&8&l七阶压缩煤炭块"
+  item-lore:
+  - "&7由43046721个煤炭压缩而成"
+  item-id: COAL_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSMTK6
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSMTK6
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSMTK6
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSMTK6
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSMTK6
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSMTK6
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSMTK6
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSMTK6
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSMTK6
+      amount: 1
+HIWORLD_ORETECH_EXTEND_YSMTK8:
+  category: hiworld_oretech_extend
+  item-type: CUSTOM
+  item-name: "&8&l八阶压缩煤炭块"
+  item-lore:
+  - "&7由387420489个煤炭压缩而成"
+  item-id: COAL_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSMTK7
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSMTK7
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSMTK7
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSMTK7
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSMTK7
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSMTK7
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSMTK7
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSMTK7
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSMTK7
+      amount: 1
+HIWORLD_ORETECH_EXTEND_YSMTK9:
+  category: hiworld_oretech_extend
+  item-type: CUSTOM
+  item-name: "&8&l九阶压缩煤炭块"
+  item-lore:
+  - "&7由3486784401个煤炭压缩而成"
+  - "&4&k&l&&&&e&l终极方块&4&k&l&&&"
+  item-id: COAL_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSMTK8
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSMTK8
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSMTK8
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSMTK8
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSMTK8
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSMTK8
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSMTK8
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSMTK8
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSMTK8
+      amount: 1
+HIWORLD_ORETECH_EXTEND_YSLBSK1:
+  category: hiworld_oretech_extend
+  item-type: CUSTOM
+  item-name: "&2&l一阶压缩绿宝石块"
+  item-lore:
+  - "&7由81个绿宝石压缩而成"
+  item-id: EMERALD_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: VANILLA
+      id: EMERALD_BLOCK
+      amount: 1
+    2:
+      type: VANILLA
+      id: EMERALD_BLOCK
+      amount: 1
+    3:
+      type: VANILLA
+      id: EMERALD_BLOCK
+      amount: 1
+    4:
+      type: VANILLA
+      id: EMERALD_BLOCK
+      amount: 1
+    5:
+      type: VANILLA
+      id: EMERALD_BLOCK
+      amount: 1
+    6:
+      type: VANILLA
+      id: EMERALD_BLOCK
+      amount: 1
+    7:
+      type: VANILLA
+      id: EMERALD_BLOCK
+      amount: 1
+    8:
+      type: VANILLA
+      id: EMERALD_BLOCK
+      amount: 1
+    9:
+      type: VANILLA
+      id: EMERALD_BLOCK
+      amount: 1
+HIWORLD_ORETECH_EXTEND_YSLBSK2:
+  category: hiworld_oretech_extend
+  item-type: CUSTOM
+  item-name: "&2&l二阶压缩绿宝石块"
+  item-lore:
+  - "&7由729个绿宝石压缩而成"
+  item-id: EMERALD_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSLBSK1
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSLBSK1
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSLBSK1
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSLBSK1
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSLBSK1
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSLBSK1
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSLBSK1
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSLBSK1
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSLBSK1
+      amount: 1
+HIWORLD_ORETECH_EXTEND_YSLBSK3:
+  category: hiworld_oretech_extend
+  item-type: CUSTOM
+  item-name: "&2&l三阶压缩绿宝石块"
+  item-lore:
+  - "&7由6561个绿宝石压缩而成"
+  item-id: EMERALD_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSLBSK2
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSLBSK2
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSLBSK2
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSLBSK2
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSLBSK2
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSLBSK2
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSLBSK2
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSLBSK2
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSLBSK2
+      amount: 1
+HIWORLD_ORETECH_EXTEND_YSLBSK4:
+  category: hiworld_oretech_extend
+  item-type: CUSTOM
+  item-name: "&2&l四阶压缩绿宝石块"
+  item-lore:
+  - "&7由59049个绿宝石压缩而成"
+  item-id: EMERALD_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSLBSK3
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSLBSK3
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSLBSK3
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSLBSK3
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSLBSK3
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSLBSK3
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSLBSK3
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSLBSK3
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSLBSK3
+      amount: 1
+HIWORLD_ORETECH_EXTEND_YSLBSK5:
+  category: hiworld_oretech_extend
+  item-type: CUSTOM
+  item-name: "&2&l五阶压缩绿宝石块"
+  item-lore:
+  - "&7由531441个绿宝石压缩而成"
+  item-id: EMERALD_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSLBSK4
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSLBSK4
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSLBSK4
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSLBSK4
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSLBSK4
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSLBSK4
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSLBSK4
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSLBSK4
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSLBSK4
+      amount: 1
+HIWORLD_ORETECH_EXTEND_YSLBSK6:
+  category: hiworld_oretech_extend
+  item-type: CUSTOM
+  item-name: "&2&l六阶压缩绿宝石块"
+  item-lore:
+  - "&7由4782969个绿宝石压缩而成"
+  item-id: EMERALD_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSLBSK5
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSLBSK5
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSLBSK5
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSLBSK5
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSLBSK5
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSLBSK5
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSLBSK5
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSLBSK5
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSLBSK5
+      amount: 1
+HIWORLD_ORETECH_EXTEND_YSLBSK7:
+  category: hiworld_oretech_extend
+  item-type: CUSTOM
+  item-name: "&2&l七阶压缩绿宝石块"
+  item-lore:
+  - "&7由43046721个绿宝石压缩而成"
+  item-id: EMERALD_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSLBSK6
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSLBSK6
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSLBSK6
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSLBSK6
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSLBSK6
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSLBSK6
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSLBSK6
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSLBSK6
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSLBSK6
+      amount: 1
+HIWORLD_ORETECH_EXTEND_YSLBSK8:
+  category: hiworld_oretech_extend
+  item-type: CUSTOM
+  item-name: "&2&l八阶压缩绿宝石块"
+  item-lore:
+  - "&7由387420489个绿宝石压缩而成"
+  item-id: EMERALD_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSLBSK7
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSLBSK7
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSLBSK7
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSLBSK7
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSLBSK7
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSLBSK7
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSLBSK7
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSLBSK7
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSLBSK7
+      amount: 1
+HIWORLD_ORETECH_EXTEND_YSLBSK9:
+  category: hiworld_oretech_extend
+  item-type: CUSTOM
+  item-name: "&2&l九阶压缩绿宝石块"
+  item-lore:
+  - "&7由3486784401个绿宝石压缩而成"
+  - "&4&k&l&&&&e&l终极方块&4&k&l&&&"
+  item-id: EMERALD_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSLBSK8
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSLBSK8
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSLBSK8
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSLBSK8
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSLBSK8
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSLBSK8
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSLBSK8
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSLBSK8
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSLBSK8
+      amount: 1
+HIWORLD_ORETECH_EXTEND_YSHSK1:
+  category: hiworld_oretech_extend
+  item-type: CUSTOM
+  item-name: "&c&l一阶压缩红石块"
+  item-lore:
+  - "&7由81个红石压缩而成"
+  item-id: REDSTONE_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: VANILLA
+      id: REDSTONE_BLOCK
+      amount: 1
+    2:
+      type: VANILLA
+      id: REDSTONE_BLOCK
+      amount: 1
+    3:
+      type: VANILLA
+      id: REDSTONE_BLOCK
+      amount: 1
+    4:
+      type: VANILLA
+      id: REDSTONE_BLOCK
+      amount: 1
+    5:
+      type: VANILLA
+      id: REDSTONE_BLOCK
+      amount: 1
+    6:
+      type: VANILLA
+      id: REDSTONE_BLOCK
+      amount: 1
+    7:
+      type: VANILLA
+      id: REDSTONE_BLOCK
+      amount: 1
+    8:
+      type: VANILLA
+      id: REDSTONE_BLOCK
+      amount: 1
+    9:
+      type: VANILLA
+      id: REDSTONE_BLOCK
+      amount: 1
+HIWORLD_ORETECH_EXTEND_YSHSK2:
+  category: hiworld_oretech_extend
+  item-type: CUSTOM
+  item-name: "&c&l二阶压缩红石块"
+  item-lore:
+  - "&7由729个红石压缩而成"
+  item-id: REDSTONE_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSHSK1
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSHSK1
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSHSK1
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSHSK1
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSHSK1
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSHSK1
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSHSK1
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSHSK1
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSHSK1
+      amount: 1
+HIWORLD_ORETECH_EXTEND_YSHSK3:
+  category: hiworld_oretech_extend
+  item-type: CUSTOM
+  item-name: "&c&l三阶压缩红石块"
+  item-lore:
+  - "&7由6561个红石压缩而成"
+  item-id: REDSTONE_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSHSK2
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSHSK2
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSHSK2
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSHSK2
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSHSK2
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSHSK2
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSHSK2
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSHSK2
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSHSK2
+      amount: 1
+HIWORLD_ORETECH_EXTEND_YSHSK4:
+  category: hiworld_oretech_extend
+  item-type: CUSTOM
+  item-name: "&c&l四阶压缩红石块"
+  item-lore:
+  - "&7由59049个红石压缩而成"
+  item-id: REDSTONE_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSHSK3
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSHSK3
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSHSK3
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSHSK3
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSHSK3
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSHSK3
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSHSK3
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSHSK3
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSHSK3
+      amount: 1
+HIWORLD_ORETECH_EXTEND_YSHSK5:
+  category: hiworld_oretech_extend
+  item-type: CUSTOM
+  item-name: "&c&l五阶压缩红石块"
+  item-lore:
+  - "&7由531441个红石压缩而成"
+  item-id: REDSTONE_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSHSK4
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSHSK4
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSHSK4
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSHSK4
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSHSK4
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSHSK4
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSHSK4
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSHSK4
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSHSK4
+      amount: 1
+HIWORLD_ORETECH_EXTEND_YSHSK6:
+  category: hiworld_oretech_extend
+  item-type: CUSTOM
+  item-name: "&c&l六阶压缩红石块"
+  item-lore:
+  - "&7由4782969个红石压缩而成"
+  item-id: REDSTONE_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSHSK5
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSHSK5
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSHSK5
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSHSK5
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSHSK5
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSHSK5
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSHSK5
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSHSK5
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSHSK5
+      amount: 1
+HIWORLD_ORETECH_EXTEND_YSHSK7:
+  category: hiworld_oretech_extend
+  item-type: CUSTOM
+  item-name: "&c&l七阶压缩红石块"
+  item-lore:
+  - "&7由43046721个红石压缩而成"
+  item-id: REDSTONE_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSHSK6
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSHSK6
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSHSK6
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSHSK6
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSHSK6
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSHSK6
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSHSK6
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSHSK6
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSHSK6
+      amount: 1
+HIWORLD_ORETECH_EXTEND_YSHSK8:
+  category: hiworld_oretech_extend
+  item-type: CUSTOM
+  item-name: "&c&l八阶压缩红石块"
+  item-lore:
+  - "&7由387420489个红石压缩而成"
+  item-id: REDSTONE_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSHSK7
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSHSK7
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSHSK7
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSHSK7
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSHSK7
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSHSK7
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSHSK7
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSHSK7
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSHSK7
+      amount: 1
+HIWORLD_ORETECH_EXTEND_YSHSK9:
+  category: hiworld_oretech_extend
+  item-type: CUSTOM
+  item-name: "&c&l九阶压缩红石块"
+  item-lore:
+  - "&7由3486784401个红石压缩而成"
+  - "&4&k&l&&&&e&l终极方块&4&k&l&&&"
+  item-id: REDSTONE_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSHSK8
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSHSK8
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSHSK8
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSHSK8
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSHSK8
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSHSK8
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSHSK8
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSHSK8
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSHSK8
+      amount: 1
+HIWORLD_ORETECH_EXTEND_YSXJHJK1:
+  category: hiworld_oretech_extend
+  item-type: CUSTOM
+  item-name: "&8&l一阶压缩下界合金块"
+  item-lore:
+  - "&7由81个下界合金压缩而成"
+  item-id: NETHERITE_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: VANILLA
+      id: NETHERITE_BLOCK
+      amount: 1
+    2:
+      type: VANILLA
+      id: NETHERITE_BLOCK
+      amount: 1
+    3:
+      type: VANILLA
+      id: NETHERITE_BLOCK
+      amount: 1
+    4:
+      type: VANILLA
+      id: NETHERITE_BLOCK
+      amount: 1
+    5:
+      type: VANILLA
+      id: NETHERITE_BLOCK
+      amount: 1
+    6:
+      type: VANILLA
+      id: NETHERITE_BLOCK
+      amount: 1
+    7:
+      type: VANILLA
+      id: NETHERITE_BLOCK
+      amount: 1
+    8:
+      type: VANILLA
+      id: NETHERITE_BLOCK
+      amount: 1
+    9:
+      type: VANILLA
+      id: NETHERITE_BLOCK
+      amount: 1
+HIWORLD_ORETECH_EXTEND_YSXJHJK2:
+  category: hiworld_oretech_extend
+  item-type: CUSTOM
+  item-name: "&8&l二阶压缩下界合金块"
+  item-lore:
+  - "&7由729个下界合金压缩而成"
+  item-id: NETHERITE_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSXJHJK1
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSXJHJK1
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSXJHJK1
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSXJHJK1
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSXJHJK1
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSXJHJK1
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSXJHJK1
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSXJHJK1
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSXJHJK1
+      amount: 1
+HIWORLD_ORETECH_EXTEND_YSXJHJK3:
+  category: hiworld_oretech_extend
+  item-type: CUSTOM
+  item-name: "&8&l三阶压缩下界合金块"
+  item-lore:
+  - "&7由6561个下界合金压缩而成"
+  item-id: NETHERITE_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSXJHJK2
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSXJHJK2
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSXJHJK2
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSXJHJK2
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSXJHJK2
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSXJHJK2
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSXJHJK2
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSXJHJK2
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSXJHJK2
+      amount: 1
+HIWORLD_ORETECH_EXTEND_YSXJHJK4:
+  category: hiworld_oretech_extend
+  item-type: CUSTOM
+  item-name: "&8&l四阶压缩下界合金块"
+  item-lore:
+  - "&7由59049个下界合金压缩而成"
+  item-id: NETHERITE_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSXJHJK3
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSXJHJK3
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSXJHJK3
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSXJHJK3
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSXJHJK3
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSXJHJK3
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSXJHJK3
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSXJHJK3
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSXJHJK3
+      amount: 1
+HIWORLD_ORETECH_EXTEND_YSXJHJK5:
+  category: hiworld_oretech_extend
+  item-type: CUSTOM
+  item-name: "&8&l五阶压缩下界合金块"
+  item-lore:
+  - "&7由531441个下界合金压缩而成"
+  item-id: NETHERITE_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSXJHJK4
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSXJHJK4
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSXJHJK4
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSXJHJK4
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSXJHJK4
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSXJHJK4
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSXJHJK4
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSXJHJK4
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSXJHJK4
+      amount: 1
+HIWORLD_ORETECH_EXTEND_YSXJHJK6:
+  category: hiworld_oretech_extend
+  item-type: CUSTOM
+  item-name: "&8&l六阶压缩下界合金块"
+  item-lore:
+  - "&7由4782969个下界合金压缩而成"
+  item-id: NETHERITE_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSXJHJK5
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSXJHJK5
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSXJHJK5
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSXJHJK5
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSXJHJK5
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSXJHJK5
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSXJHJK5
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSXJHJK5
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSXJHJK5
+      amount: 1
+HIWORLD_ORETECH_EXTEND_YSXJHJK7:
+  category: hiworld_oretech_extend
+  item-type: CUSTOM
+  item-name: "&8&l七阶压缩下界合金块"
+  item-lore:
+  - "&7由43046721个下界合金压缩而成"
+  item-id: NETHERITE_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSXJHJK6
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSXJHJK6
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSXJHJK6
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSXJHJK6
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSXJHJK6
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSXJHJK6
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSXJHJK6
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSXJHJK6
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSXJHJK6
+      amount: 1
+HIWORLD_ORETECH_EXTEND_YSXJHJK8:
+  category: hiworld_oretech_extend
+  item-type: CUSTOM
+  item-name: "&8&l八阶压缩下界合金块"
+  item-lore:
+  - "&7由387420489个下界合金压缩而成"
+  item-id: NETHERITE_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSXJHJK7
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSXJHJK7
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSXJHJK7
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSXJHJK7
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSXJHJK7
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSXJHJK7
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSXJHJK7
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSXJHJK7
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSXJHJK7
+      amount: 1
+HIWORLD_ORETECH_EXTEND_YSXJHJK9:
+  category: hiworld_oretech_extend
+  item-type: CUSTOM
+  item-name: "&8&l九阶压缩下界合金块"
+  item-lore:
+  - "&7由3486784401个下界合金压缩而成"
+  - "&4&k&l&&&&e&l终极方块&4&k&l&&&"
+  item-id: NETHERITE_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSXJHJK8
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSXJHJK8
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSXJHJK8
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSXJHJK8
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSXJHJK8
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSXJHJK8
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSXJHJK8
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSXJHJK8
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSXJHJK8
+      amount: 1
+HIWORLD_ORETECH_EXTEND_YSSYK1:
+  category: hiworld_oretech_extend
+  item-type: CUSTOM
+  item-name: "&f&l一阶压缩石英块"
+  item-lore:
+  - "&7由36个石英压缩而成"
+  item-id: QUARTZ_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: VANILLA
+      id: QUARTZ_BLOCK
+      amount: 1
+    2:
+      type: VANILLA
+      id: QUARTZ_BLOCK
+      amount: 1
+    3:
+      type: VANILLA
+      id: QUARTZ_BLOCK
+      amount: 1
+    4:
+      type: VANILLA
+      id: QUARTZ_BLOCK
+      amount: 1
+    5:
+      type: VANILLA
+      id: QUARTZ_BLOCK
+      amount: 1
+    6:
+      type: VANILLA
+      id: QUARTZ_BLOCK
+      amount: 1
+    7:
+      type: VANILLA
+      id: QUARTZ_BLOCK
+      amount: 1
+    8:
+      type: VANILLA
+      id: QUARTZ_BLOCK
+      amount: 1
+    9:
+      type: VANILLA
+      id: QUARTZ_BLOCK
+      amount: 1
+HIWORLD_ORETECH_EXTEND_YSSYK2:
+  category: hiworld_oretech_extend
+  item-type: CUSTOM
+  item-name: "&f&l二阶压缩石英块"
+  item-lore:
+  - "&7由324个石英压缩而成"
+  item-id: QUARTZ_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSSYK1
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSSYK1
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSSYK1
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSSYK1
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSSYK1
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSSYK1
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSSYK1
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSSYK1
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSSYK1
+      amount: 1
+HIWORLD_ORETECH_EXTEND_YSSYK3:
+  category: hiworld_oretech_extend
+  item-type: CUSTOM
+  item-name: "&f&l三阶压缩石英块"
+  item-lore:
+  - "&7由2916个石英压缩而成"
+  item-id: QUARTZ_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSSYK2
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSSYK2
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSSYK2
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSSYK2
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSSYK2
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSSYK2
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSSYK2
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSSYK2
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSSYK2
+      amount: 1
+HIWORLD_ORETECH_EXTEND_YSSYK4:
+  category: hiworld_oretech_extend
+  item-type: CUSTOM
+  item-name: "&f&l四阶压缩石英块"
+  item-lore:
+  - "&7由26244个石英压缩而成"
+  item-id: QUARTZ_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSSYK3
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSSYK3
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSSYK3
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSSYK3
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSSYK3
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSSYK3
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSSYK3
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSSYK3
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSSYK3
+      amount: 1
+HIWORLD_ORETECH_EXTEND_YSSYK5:
+  category: hiworld_oretech_extend
+  item-type: CUSTOM
+  item-name: "&f&l五阶压缩石英块"
+  item-lore:
+  - "&7由236196个石英压缩而成"
+  item-id: QUARTZ_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSSYK4
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSSYK4
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSSYK4
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSSYK4
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSSYK4
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSSYK4
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSSYK4
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSSYK4
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSSYK4
+      amount: 1
+HIWORLD_ORETECH_EXTEND_YSSYK6:
+  category: hiworld_oretech_extend
+  item-type: CUSTOM
+  item-name: "&f&l六阶压缩石英块"
+  item-lore:
+  - "&7由2125764个石英压缩而成"
+  item-id: QUARTZ_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSSYK5
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSSYK5
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSSYK5
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSSYK5
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSSYK5
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSSYK5
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSSYK5
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSSYK5
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSSYK5
+      amount: 1
+HIWORLD_ORETECH_EXTEND_YSSYK7:
+  category: hiworld_oretech_extend
+  item-type: CUSTOM
+  item-name: "&f&l七阶压缩石英块"
+  item-lore:
+  - "&7由19131876个石英压缩而成"
+  item-id: QUARTZ_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSSYK6
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSSYK6
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSSYK6
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSSYK6
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSSYK6
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSSYK6
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSSYK6
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSSYK6
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSSYK6
+      amount: 1
+HIWORLD_ORETECH_EXTEND_YSSYK8:
+  category: hiworld_oretech_extend
+  item-type: CUSTOM
+  item-name: "&f&l八阶压缩石英块"
+  item-lore:
+  - "&7由172186884个石英压缩而成"
+  item-id: QUARTZ_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSSYK7
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSSYK7
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSSYK7
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSSYK7
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSSYK7
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSSYK7
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSSYK7
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSSYK7
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSSYK7
+      amount: 1
+HIWORLD_ORETECH_EXTEND_YSSYK9:
+  category: hiworld_oretech_extend
+  item-type: CUSTOM
+  item-name: "&f&l九阶压缩石英块"
+  item-lore:
+  - "&7由1549681956个石英压缩而成"
+  - "&4&k&l&&&&e&l终极方块&4&k&l&&&"
+  item-id: QUARTZ_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSSYK8
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSSYK8
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSSYK8
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSSYK8
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSSYK8
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSSYK8
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSSYK8
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSSYK8
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSSYK8
+      amount: 1
+HIWORLD_ORETECH_EXTEND_YSQJSK1:
+  category: hiworld_oretech_extend
+  item-type: CUSTOM
+  item-name: "&b&l一阶压缩青金石块"
+  item-lore:
+  - "&7由81个青金石压缩而成"
+  item-id: LAPIS_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: VANILLA
+      id: LAPIS_BLOCK
+      amount: 1
+    2:
+      type: VANILLA
+      id: LAPIS_BLOCK
+      amount: 1
+    3:
+      type: VANILLA
+      id: LAPIS_BLOCK
+      amount: 1
+    4:
+      type: VANILLA
+      id: LAPIS_BLOCK
+      amount: 1
+    5:
+      type: VANILLA
+      id: LAPIS_BLOCK
+      amount: 1
+    6:
+      type: VANILLA
+      id: LAPIS_BLOCK
+      amount: 1
+    7:
+      type: VANILLA
+      id: LAPIS_BLOCK
+      amount: 1
+    8:
+      type: VANILLA
+      id: LAPIS_BLOCK
+      amount: 1
+    9:
+      type: VANILLA
+      id: LAPIS_BLOCK
+      amount: 1
+HIWORLD_ORETECH_EXTEND_YSQJSK2:
+  category: hiworld_oretech_extend
+  item-type: CUSTOM
+  item-name: "&b&l二阶压缩青金石块"
+  item-lore:
+  - "&7由729个青金石压缩而成"
+  item-id: LAPIS_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSQJSK1
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSQJSK1
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSQJSK1
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSQJSK1
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSQJSK1
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSQJSK1
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSQJSK1
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSQJSK1
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSQJSK1
+      amount: 1
+HIWORLD_ORETECH_EXTEND_YSQJSK3:
+  category: hiworld_oretech_extend
+  item-type: CUSTOM
+  item-name: "&b&l三阶压缩青金石块"
+  item-lore:
+  - "&7由6561个青金石压缩而成"
+  item-id: LAPIS_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSQJSK2
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSQJSK2
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSQJSK2
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSQJSK2
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSQJSK2
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSQJSK2
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSQJSK2
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSQJSK2
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSQJSK2
+      amount: 1
+HIWORLD_ORETECH_EXTEND_YSQJSK4:
+  category: hiworld_oretech_extend
+  item-type: CUSTOM
+  item-name: "&b&l四阶压缩青金石块"
+  item-lore:
+  - "&7由59049个青金石压缩而成"
+  item-id: LAPIS_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSQJSK3
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSQJSK3
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSQJSK3
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSQJSK3
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSQJSK3
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSQJSK3
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSQJSK3
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSQJSK3
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSQJSK3
+      amount: 1
+HIWORLD_ORETECH_EXTEND_YSQJSK5:
+  category: hiworld_oretech_extend
+  item-type: CUSTOM
+  item-name: "&b&l五阶压缩青金石块"
+  item-lore:
+  - "&7由531441个青金石压缩而成"
+  item-id: LAPIS_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSQJSK4
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSQJSK4
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSQJSK4
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSQJSK4
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSQJSK4
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSQJSK4
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSQJSK4
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSQJSK4
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSQJSK4
+      amount: 1
+HIWORLD_ORETECH_EXTEND_YSQJSK6:
+  category: hiworld_oretech_extend
+  item-type: CUSTOM
+  item-name: "&b&l六阶压缩青金石块"
+  item-lore:
+  - "&7由4782969个青金石压缩而成"
+  item-id: LAPIS_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSQJSK5
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSQJSK5
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSQJSK5
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSQJSK5
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSQJSK5
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSQJSK5
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSQJSK5
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSQJSK5
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSQJSK5
+      amount: 1
+HIWORLD_ORETECH_EXTEND_YSQJSK7:
+  category: hiworld_oretech_extend
+  item-type: CUSTOM
+  item-name: "&b&l七阶压缩青金石块"
+  item-lore:
+  - "&7由43046721个青金石压缩而成"
+  item-id: LAPIS_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSQJSK6
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSQJSK6
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSQJSK6
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSQJSK6
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSQJSK6
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSQJSK6
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSQJSK6
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSQJSK6
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSQJSK6
+      amount: 1
+HIWORLD_ORETECH_EXTEND_YSQJSK8:
+  category: hiworld_oretech_extend
+  item-type: CUSTOM
+  item-name: "&b&l八阶压缩青金石块"
+  item-lore:
+  - "&7由387420489个青金石压缩而成"
+  item-id: LAPIS_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSQJSK7
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSQJSK7
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSQJSK7
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSQJSK7
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSQJSK7
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSQJSK7
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSQJSK7
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSQJSK7
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSQJSK7
+      amount: 1
+HIWORLD_ORETECH_EXTEND_YSQJSK9:
+  category: hiworld_oretech_extend
+  item-type: CUSTOM
+  item-name: "&b&l九阶压缩青金石块"
+  item-lore:
+  - "&7由3486784401个青金石压缩而成"
+  - "&4&k&l&&&&e&l终极方块&4&k&l&&&"
+  item-id: LAPIS_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSQJSK8
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSQJSK8
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSQJSK8
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSQJSK8
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSQJSK8
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSQJSK8
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSQJSK8
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSQJSK8
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSQJSK8
+      amount: 1
+HIWORLD_ORETECH_MATERIAL_KWHX1:
+  category: hiworld_oretech_material
+  item-type: CUSTOM
+  item-name: "&e一&a阶&b矿&d物&6核&c心"
+  item-lore:
+  - "&7矿物的力量掌握在你手里"
+  item-id: SKULL785914545af45dd76bd82aa15cb9f5007e8063c6062bdd74dc9b1d5ef5f485e6
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSTK1
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSZSK1
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSQJSK1
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSJK1
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSXJHJK1
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSHSK1
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSSYK1
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSMTK1
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSLBSK1
+      amount: 1
+HIWORLD_ORETECH_MATERIAL_KWHX2:
+  category: hiworld_oretech_material
+  item-type: CUSTOM
+  item-name: "&e二&a阶&b矿&d物&6核&c心"
+  item-lore:
+  - "&7矿物的力量掌握在你手里"
+  item-id: SKULLd57e3d0db0a46c052e5407c9c1f3487213cf8c15c44efd72d70042ac1d6540a6
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSTK2
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSZSK2
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSQJSK2
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSJK2
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSXJHJK2
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSHSK2
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSSYK2
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSMTK2
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSLBSK2
+      amount: 1
+HIWORLD_ORETECH_MATERIAL_KWHX3:
+  category: hiworld_oretech_material
+  item-type: CUSTOM
+  item-name: "&e三&a阶&b矿&d物&6核&c心"
+  item-lore:
+  - "&7矿物的力量掌握在你手里"
+  item-id: SKULL60bbd731956affcf20fdf0e5004c20c96e94cfb38d45ed3e771bd070034a48b6
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSTK3
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSZSK3
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSQJSK3
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSJK3
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSXJHJK3
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSHSK3
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSSYK3
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSMTK3
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSLBSK3
+      amount: 1
+HIWORLD_ORETECH_MATERIAL_KWHX4:
+  category: hiworld_oretech_material
+  item-type: CUSTOM
+  item-name: "&e四&a阶&b矿&d物&6核&c心"
+  item-lore:
+  - "&7矿物的力量掌握在你手里"
+  item-id: SKULLdde9b6f3dc82770b43818171cd2fb6406a8caa12978c9f458c4c79ae06f1269f
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSTK4
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSZSK4
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSQJSK4
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSJK4
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSXJHJK4
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSHSK4
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSSYK4
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSMTK4
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSLBSK4
+      amount: 1
+HIWORLD_ORETECH_MATERIAL_KWHX5:
+  category: hiworld_oretech_material
+  item-type: CUSTOM
+  item-name: "&e五&a阶&b矿&d物&6核&c心"
+  item-lore:
+  - "&7矿物的力量掌握在你手里"
+  item-id: SKULLea208d3eacea365e73846f4136577ec6c7f6b4b6d2ca1183f3df875271ebc5c7
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSTK5
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSZSK5
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSQJSK5
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSJK5
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSXJHJK5
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSHSK5
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSSYK5
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSMTK5
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSLBSK5
+      amount: 1
+HIWORLD_ORETECH_MATERIAL_KWHX6:
+  category: hiworld_oretech_material
+  item-type: CUSTOM
+  item-name: "&e六&a阶&b矿&d物&6核&c心"
+  item-lore:
+  - "&7矿物的力量掌握在你手里"
+  item-id: SKULL6075bbd16255eea5e59825e8b6aa000652231a27d20ba3ebf76e84b331fd2599
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSTK6
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSZSK6
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSQJSK6
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSJK6
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSXJHJK6
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSHSK6
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSSYK6
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSMTK6
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSLBSK6
+      amount: 1
+HIWORLD_ORETECH_MATERIAL_KWHX7:
+  category: hiworld_oretech_material
+  item-type: CUSTOM
+  item-name: "&e七&a阶&b矿&d物&7核&c心"
+  item-lore:
+  - "&7矿物的力量掌握在你手里"
+  item-id: SKULLf62ec8a06ced1a1d7edaf56d47ce32a007422c2ca3665b4f5690a000349a00e3
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSTK7
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSZSK7
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSQJSK7
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSJK7
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSXJHJK7
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSHSK7
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSSYK7
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSMTK7
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSLBSK7
+      amount: 1
+HIWORLD_ORETECH_MATERIAL_KWHX8:
+  category: hiworld_oretech_material
+  item-type: CUSTOM
+  item-name: "&e八&a阶&b矿&d物&8核&c心"
+  item-lore:
+  - "&7矿物的力量掌握在你手里"
+  item-id: SKULL525242ef3705672b985695d6c9b0c67cf235c428e2a97ebf365e879d26c8aa13
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSTK8
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSZSK8
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSQJSK8
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSJK8
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSXJHJK8
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSHSK8
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSSYK8
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSMTK8
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSLBSK8
+      amount: 1
+HIWORLD_ORETECH_MATERIAL_KWHX9:
+  category: hiworld_oretech_material
+  item-type: CUSTOM
+  item-name: "&e九&a阶&b矿&d物&9核&c心"
+  item-lore:
+  - "&7矿物的力量掌握在你手里"
+  item-id: SKULLa2d9633b253403f3d814167626728d90b1ba4ba2eaf63462e8928a4aebc9bbf7
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSTK9
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSZSK9
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSQJSK9
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSJK9
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSXJHJK9
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSHSK9
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSSYK9
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSMTK9
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_EXTEND_YSLBSK9
+      amount: 1
+HIWORLD_ORETECH_MATERIAL_XKKWHX:
+  category: hiworld_oretech_material
+  item-type: CUSTOM
+  item-name: "&8虚空矿物核心"
+  item-lore:
+  - "&7虚空中神秘的物质"
+  - "&7可用来提炼虚空尘埃"
+  item-id: SKULL5dab2ff9f2b5e2d3692226f638eb9e6764a45b43ba0278c5e0bd8d74942c572d
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_KWHX1
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: VOID_INGOT
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_KWHX2
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: VOID_INGOT
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_KWHX5
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: VOID_INGOT
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_KWHX3
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: VOID_INGOT
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_KWHX4
+      amount: 1
+HIWORLD_ORETECH_MATERIAL_WJKWHX:
+  category: hiworld_oretech_material
+  item-type: CUSTOM
+  item-name: "&e无&a尽&b矿&d物&9核&c心"
+  item-lore:
+  - "&6宇宙级矿物核心"
+  - "&7可用来提炼无尽尘埃"
+  item-id: SKULLd3ad5579f6a71591e615cc551301d24e4432c0a17dd4a4fc4dddff0d27641dc6
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_KWHX6
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: INFINITE_INGOT
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_KWHX7
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: INFINITE_INGOT
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_XKKWHX
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: INFINITE_INGOT
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_KWHX8
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: INFINITE_INGOT
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_KWHX9
+      amount: 1
+HIWORLD_ORETECH_MATERIAL_HDKWHX:
+  category: hiworld_oretech_material
+  item-type: CUSTOM
+  item-name: "&8&l混沌矿物核心"
+  item-lore:
+  - "&4&l&klll&4无限魔力&4&l&klll"
+  item-id: SKULL21f5074db86b669376e71dd8fe70716f73e0e84f955879a4682ef5fa1ea82d2d
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: INFINITY_SINGULARITY
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_XKKWHX
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: INFINITY_SINGULARITY
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_XKKWHX
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_WJKWHX
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_XKKWHX
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: INFINITY_SINGULARITY
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_XKKWHX
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: INFINITY_SINGULARITY
+      amount: 1
+HIWORLD_ORETECH_MATERIAL_WDHX:
+  category: hiworld_oretech_material
+  item-type: CUSTOM
+  item-name: "&6稳定核心"
+  item-lore:
+  - "&9无价之宝"
+  item-id: SKULLad452bfcdc3ea14f9e612b1c96abef97c10e96c7116ea2a4b1a5df8d4aa172f9
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: IRON_SINGULARITY
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: STABLEBLOCK
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: IRON_SINGULARITY
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: STABLEBLOCK
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: IRON_SINGULARITY
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: STABLEBLOCK
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: IRON_SINGULARITY
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: STABLEBLOCK
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: IRON_SINGULARITY
+      amount: 1
+HIWORLD_ORETECH_MATERIAL_XWD:
+  category: hiworld_oretech_material
+  item-type: CUSTOM
+  item-name: "&8&l虚无锭"
+  item-lore:
+  - "&7一片虚无"
+  item-id: NETHERITE_INGOT
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: SMELTERY
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: EARTH_SINGULARITY
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_XKKWHX
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: FORTUNE_SINGULARITY
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: MAGIC_SINGULARITY
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: INFINITE_INGOT
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: METAL_SINGULARITY
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+HIWORLD_ORETECH_MATERIAL_FSHX:
+  category: hiworld_oretech_material
+  item-type: CUSTOM
+  item-name: "&2放射核心"
+  item-lore:
+  - "&4高浓度辐射凝聚"
+  - "&4不会溢出辐射"
+  item-id: SKULLc496d770db8e99550417f904a39bc15589084004888715c76133c45e5eac991c
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: ENRICHED_NETHER_ICE
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: BLISTERING_INGOT_3
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: NETHER_ICE
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: URANIUM
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: BOOSTED_URANIUM
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: NEPTUNIUM
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: INFINITE_MACHINE_CORE
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: PLUTONIUM
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: INFINITE_MACHINE_CORE
+      amount: 1
+HIWORLD_ORETECH_MATERIAL_WXD:
+  category: hiworld_oretech_material
+  item-type: CUSTOM
+  item-name: "&e&l无限锭"
+  item-lore:
+  - "&7无限的力量"
+  item-id: IRON_INGOT
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: SMELTERY
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_WDHX
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_HDKWHX
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_FSHX
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_WJKWHX
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_XWD
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: INFINITY_SINGULARITY
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+HIWORLD_ORETECH_MATERIAL_TXWCL:
+  category: hiworld_oretech_material
+  item-type: CUSTOM
+  item-name: "&8碳纤维材料"
+  item-lore:
+  - "&7坚硬的碳钎维"
+  - "&7可以更好地胜任压缩工作"
+  item-id: BLACK_DYE
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: CARBON_CHUNK
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: CARBON_CHUNK
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: CARBON_CHUNK
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+HIWORLD_ORETECH_MATERIAL_SM:
+  category: hiworld_oretech_material
+  item-type: CUSTOM
+  item-name: "&8石墨"
+  item-lore:
+  - "&7黑色染料的另一种获取方式"
+  item-id: SKULLe7a0f9a48a14c2762ba85412844f1b4e3ef206eb4d602181cbb08276373d885b
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: CARBON
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: CARBON
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: CARBON
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: CARBON
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: CARBON
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: CARBON
+      amount: 1
+HIWORLD_ORETECH_PART_SMDJ:
+  category: hiworld_oretech_part
+  item-type: CUSTOM
+  item-name: "&8石墨电极"
+  item-lore:
+  item-id: SKULL9fd0a2ddc7f2a07cdd23fc063fda2f133d947cf65b0f37c825b318dc17423dd7
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_SM
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_SM
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_SM
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_SM
+      amount: 1
+    5:
+      type: VANILLA
+      id: LIGHTNING_ROD
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_SM
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_SM
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_SM
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_SM
+      amount: 1
+HIWORLD_ORETECH_MATERIAL_YJHCBL:
+  category: hiworld_oretech_material
+  item-type: CUSTOM
+  item-name: "&3有机合成玻璃"
+  item-lore:
+  - "&7加入了碳钎维"
+  - "&7变得极其坚硬"
+  item-id: PRISMARINE_SHARD
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_TXWCL
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: WITHER_PROOF_GLASS
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_TXWCL
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: WITHER_PROOF_GLASS
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: ANCIENT_RUNE_EARTH
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: WITHER_PROOF_GLASS
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_TXWCL
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: WITHER_PROOF_GLASS
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_TXWCL
+      amount: 1
+HIWORLD_ORETECH_MATERIAL_TXWKJ:
+  category: hiworld_oretech_material
+  item-type: CUSTOM
+  item-name: "&8碳纤维框架"
+  item-lore:
+  item-id: SKULLe3d1f96f830f41018d13629a15e7023f3959503068a1951e873fdca022cd6033
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: CARBONADO
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_TXWCL
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: CARBONADO
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_TXWCL
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_YJHCBL
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_TXWCL
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: CARBONADO
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_TXWCL
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: CARBONADO
+      amount: 1
+HIWORLD_ORETECH_PART_LQDW:
+  category: hiworld_oretech_part
+  item-type: CUSTOM
+  item-name: "&b冷却单位"
+  item-lore:
+  item-id: SKULL1f178a3e7058a13aac50d1929a54d484dbdffc0385324c19b18dfe3441b4c79e
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: COOLING_UNIT
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: COOLING_UNIT
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: COOLING_UNIT
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: COOLING_UNIT
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: REACTOR_COLLANT_CELL
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: COOLING_UNIT
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: COOLING_UNIT
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: COOLING_UNIT
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: COOLING_UNIT
+      amount: 1
+HIWORLD_ORETECH_MATERIAL_GSN:
+  category: hiworld_oretech_material
+  item-type: CUSTOM
+  item-name: "&f硅酸钠"
+  item-lore:
+  - "&7Na2SiO3 &6粘性材料"
+  item-id: SNOWBALL
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+HIWORLD_ORETECH_MATERIAL_NHJ:
+  category: hiworld_oretech_material
+  item-type: CUSTOM
+  item-name: "&7粘合剂"
+  item-lore:
+  - "&e黏黏的东西"
+  item-id: SKULL16db64fecf1fc7f4df82937f12c7aa72bdde02b5296a7793ba25a69498cc0f03
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: VANILLA
+      id: SLIME_BLOCK
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_GSN
+      amount: 1
+    3:
+      type: VANILLA
+      id: HONEY_BLOCK
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_GSN
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: BUCKET_OF_OIL
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_GSN
+      amount: 1
+    7:
+      type: VANILLA
+      id: HONEY_BLOCK
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_GSN
+      amount: 1
+    9:
+      type: VANILLA
+      id: SLIME_BLOCK
+      amount: 1
+HIWORLD_ORETECH_MATERIAL_TSB:
+  category: hiworld_oretech_material
+  item-type: CUSTOM
+  item-name: "&8碳素板"
+  item-lore:
+  - "&7听说这玩意很坚硬"
+  item-id: PAPER
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: VANILLA
+      id: PAPER
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_NHJ
+      amount: 1
+    3:
+      type: VANILLA
+      id: PAPER
+      amount: 1
+    4:
+      type: VANILLA
+      id: PAPER
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_NHJ
+      amount: 1
+    6:
+      type: VANILLA
+      id: PAPER
+      amount: 1
+    7:
+      type: VANILLA
+      id: PAPER
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_NHJ
+      amount: 1
+    9:
+      type: VANILLA
+      id: PAPER
+      amount: 1
+HIWORLD_ORETECH_MATERIAL_TSKJ:
+  category: hiworld_oretech_material
+  item-type: CUSTOM
+  item-name: "&8碳素框架"
+  item-lore:
+  item-id: SMOOTH_QUARTZ
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_NHJ
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_TSB
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_NHJ
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_TSB
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_TXWKJ
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_TSB
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_NHJ
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_TSB
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_NHJ
+      amount: 1
+HIWORLD_ORETECH_PART_ZNFPCLQ:
+  category: hiworld_oretech_part
+  item-type: CUSTOM
+  item-name: "&c智能分配处理器"
+  item-lore:
+  - "&7能够更加智能地分配矿物"
+  - "&7压缩矿物时可更大程度节省材料"
+  item-id: SKULL7afbcb8a4072f081f79c1d76bd29311f162926b46eeaa1114adcc4cf4ddb48da
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: ENHANCED_AUTO_CRAFTER
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: ANDROID_MEMORY_CORE
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: ENHANCED_AUTO_CRAFTER
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: PROGRAMMABLE_ANDROID
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_KWHX4
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: PROGRAMMABLE_ANDROID
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: CRAFTER_SMART_PORT
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: PROGRAMMABLE_ANDROID
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: CRAFTER_SMART_PORT
+      amount: 1
+HIWORLD_ORETECH_MATERIAL_WJTSKJ:
+  category: hiworld_oretech_material
+  item-type: CUSTOM
+  item-name: "&e无&a尽&b碳&d素&9框&c架"
+  item-lore:
+  item-id: DIAMOND_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_TSB
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: INFINITE_MACHINE_CIRCUIT
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_TSB
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_TSB
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_TSKJ
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_TSB
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: INFINITE_MACHINE_CORE
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_NHJ
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: INFINITE_MACHINE_CORE
+      amount: 1
+HIWORLD_ORETECH_MATERIAL_GJGD:
+  category: hiworld_oretech_material
+  item-type: CUSTOM
+  item-name: "&7钢筋管道"
+  item-lore:
+  - "&7坚韧的管道"
+  - "&7可以更好的胜任压缩工作"
+  item-id: END_ROD
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: REINFORCED_PLATE
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: REINFORCED_PLATE
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: REINFORCED_PLATE
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_NHJ
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_NHJ
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_NHJ
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: REINFORCED_PLATE
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: REINFORCED_PLATE
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: REINFORCED_PLATE
+      amount: 1
+HIWORLD_ORETECH_MATERIAL_ZLG:
+  category: hiworld_oretech_material
+  item-type: CUSTOM
+  item-name: "&7制冷管"
+  item-lore:
+  - "&7加入银后获得更高的导热性"
+  item-id: END_ROD
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_GJGD
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_GJGD
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_GJGD
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: SILVER_SINGULARITY
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_GJGD
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: SILVER_SINGULARITY
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_GJGD
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_GJGD
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_GJGD
+      amount: 1
+HIWORLD_ORETECH_PART_ZLY:
+  category: hiworld_oretech_part
+  item-type: CUSTOM
+  item-name: "&7制冷仪"
+  item-lore:
+  item-id: SNOW_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_TSKJ
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: ELECTRIC_PRESS_2
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_TSKJ
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_TSKJ
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_GJGD
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_TSKJ
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_TSKJ
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: FLUID_PUMP
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_TSKJ
+      amount: 1
+HIWORLD_ORETECH_PART_JHZZ:
+  category: hiworld_oretech_part
+  item-type: CUSTOM
+  item-name: "&f极寒装置"
+  item-lore:
+  item-id: BLUE_ICE
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_PART_LQDW
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_PART_LQDW
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_PART_LQDW
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_PART_LQDW
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_PART_ZLY
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_PART_LQDW
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_PART_LQDW
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_PART_LQDW
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_PART_LQDW
+      amount: 1
+HIWORLD_ORETECH_PART_JCYSYJ:
+  category: hiworld_oretech_part
+  item-type: CUSTOM
+  item-name: "&7基础压缩元件"
+  item-lore:
+  item-id: SKULL8d842db77ac330320076e5bd1ff2e5eae3d74f785f99ad3bad6f40689c2fcd4f
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: REINFORCED_PLATE
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: ELECTRIC_PRESS_2
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: REINFORCED_PLATE
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: CARBON_PRESS_3
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: MACHINE_CORE
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HEATED_PRESSURE_CHAMBER_2
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: ELECTRIC_MOTOR
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: ELECTRIC_PRESS_2
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: ELECTRIC_MOTOR
+      amount: 1
+HIWORLD_ORETECH_PART_1ZJYSYJ:
+  category: hiworld_oretech_part
+  item-type: CUSTOM
+  item-name: "&6中级压缩元件"
+  item-lore:
+  item-id: SKULLb83cca31aff25e07ee4bb9962389de2ccd73b70d89364166237b0ff2e2b55b6d
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_TXWKJ
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: MACHINE_PLATE
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_TXWKJ
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: SINGULARITY_CONSTRUCTOR
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_PART_JCYSYJ
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: SINGULARITY_CONSTRUCTOR
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: MACHINE_PLATE
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: MACHINE_CORE
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: MACHINE_PLATE
+      amount: 1
+HIWORLD_ORETECH_PART_GJYSYJ:
+  category: hiworld_oretech_part
+  item-type: CUSTOM
+  item-name: "&c&l高级压缩元件"
+  item-lore:
+  item-id: SKULLccf16bbfec6e0e5a58a99b10c52acd083e2ac86e0013e037d6f906243b63a279
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: INFINITE_INGOT
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_TXWKJ
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: INFINITE_INGOT
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: SINGULARITY_CONSTRUCTOR
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_PART_1ZJYSYJ
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: SINGULARITY_CONSTRUCTOR
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_TSKJ
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: NUCLEAR_REACTOR
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_TSKJ
+      amount: 1
+HIWORLD_ORETECH_PART_2ZJYSYJ:
+  category: hiworld_oretech_part
+  item-type: CUSTOM
+  item-name: "&4&l终极压缩元件"
+  item-lore:
+  item-id: SKULL4a6938f70e49f5a2ff59e5bdfbbe4236902bd91c3f5baca0101801f2e4a98560
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_XWD
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_WJTSKJ
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_XWD
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: INFINITY_CONSTRUCTOR
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_PART_GJYSYJ
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: INFINITY_CONSTRUCTOR
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_PART_JHZZ
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_WDHX
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_PART_JHZZ
+      amount: 1
+HIWORLD_ORETECH_MATERIAL_BWDDHHH:
+  category: hiworld_oretech_material
+  item-type: CUSTOM
+  item-name: "&8&l不稳定的&8&l&kHHH"
+  item-lore:
+  - "&7好危险的样子"
+  item-id: BARRIER
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: INFINITY_SINGULARITY
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: INFINITY_CONSTRUCTOR
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: INFINITY_SINGULARITY
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: INFINITY_CONSTRUCTOR
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_PART_2ZJYSYJ
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: INFINITY_CONSTRUCTOR
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: INFINITY_SINGULARITY
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: INFINITY_REACTOR
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: INFINITY_SINGULARITY
+      amount: 1
+HIWORLD_ORETECH_MATERIAL_CBWDDHHH:
+  category: hiworld_oretech_material
+  item-type: CUSTOM
+  item-name: "&6&l初步稳定的&6&l&kHHH"
+  item-lore:
+  - "&c平缓了许多....."
+  item-id: BARRIER
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_WDHX
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_WDHX
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_WDHX
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_WDHX
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_BWDDHHH
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_WDHX
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_WDHX
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_WDHX
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_WDHX
+      amount: 1
+HIWORLD_ORETECH_MATERIAL_ZZDHD:
+  category: hiworld_oretech_material
+  item-type: SAVEDITEM
+  item-name: ""
+  item-lore:
+  item-id: ZZDHD
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_HDKWHX
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_FSHX
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_HDKWHX
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_FSHX
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_WJKWHX
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_FSHX
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_HDKWHX
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_FSHX
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_HDKWHX
+      amount: 1
+HIWORLD_ORETECH_MATERIAL_BCBCBC:
+  category: hiworld_oretech_material
+  item-type: SAVEDITEM
+  item-name: ""
+  item-lore:
+  item-id: BCBCBC
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_WDHX
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_WDHX
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_WDHX
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_WDHX
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_ZZDHD
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_WDHX
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_WDHX
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_WDHX
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_WDHX
+      amount: 1
+HIWORLD_ORETECH_PART_WDDYSYJ:
+  category: hiworld_oretech_part
+  item-type: SAVEDITEM
+  item-name: ""
+  item-lore:
+  item-id: WDDYSYJ
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_HDKWHX
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_KWHX9
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_WDHX
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_KWHX9
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_BWDDHHH
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_KWHX9
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_BCBCBC
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_KWHX9
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_FSHX
+      amount: 1
+HIWORLD_ORETECH_MATERIAL_BH1:
+  category: hiworld_oretech_material
+  item-type: SAVEDITEM
+  item-name: ""
+  item-lore:
+  item-id: BH1
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_BCBCBC
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_BCBCBC
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_BCBCBC
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_BCBCBC
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_PART_WDDYSYJ
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_BCBCBC
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_BCBCBC
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_BCBCBC
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_BCBCBC
+      amount: 1
+HIWORLD_ORETECH_DUST_XWCA:
+  category: hiworld_oretech_dust
+  item-type: SAVEDITEM
+  item-name: ""
+  item-lore:
+  item-id: XWCA
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+HIWORLD_ORETECH_DUST_XKCA:
+  category: hiworld_oretech_dust
+  item-type: SAVEDITEM
+  item-name: ""
+  item-lore:
+  item-id: XKCA
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+HIWORLD_ORETECH_DUST_WXCA:
+  category: hiworld_oretech_dust
+  item-type: SAVEDITEM
+  item-name: ""
+  item-lore:
+  item-id: WXCA
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+HIWORLD_ORETECH_DUST_WJCA:
+  category: hiworld_oretech_dust
+  item-type: SAVEDITEM
+  item-name: ""
+  item-lore:
+  item-id: WJCA
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+HIWORLD_ORETECH_DUST_WDCA:
+  category: hiworld_oretech_dust
+  item-type: SAVEDITEM
+  item-name: ""
+  item-lore:
+  item-id: WDCA
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+HIWORLD_ORETECH_DUST_HDCA:
+  category: hiworld_oretech_dust
+  item-type: SAVEDITEM
+  item-name: ""
+  item-lore:
+  item-id: HDCA
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+HIWORLD_ORETECH_DUST_FSCA:
+  category: hiworld_oretech_dust
+  item-type: SAVEDITEM
+  item-name: ""
+  item-lore:
+  item-id: FSCA
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+HIWORLD_ORETECH_POLE_CJJQD:
+  category: hiworld_oretech_pole
+  item-type: SAVEDITEM
+  item-name: ""
+  item-lore:
+  item-id: CJJQD
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+HIWORLD_ORETECH_POLE_CJTQD:
+  category: hiworld_oretech_pole
+  item-type: SAVEDITEM
+  item-name: ""
+  item-lore:
+  item-id: CJTQD
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+HIWORLD_ORETECH_POLE_CJZSQD:
+  category: hiworld_oretech_pole
+  item-type: SAVEDITEM
+  item-name: ""
+  item-lore:
+  item-id: CJZSQD
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+HIWORLD_ORETECH_POLE_CJMTQD:
+  category: hiworld_oretech_pole
+  item-type: SAVEDITEM
+  item-name: ""
+  item-lore:
+  item-id: CJMTQD
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+HIWORLD_ORETECH_POLE_CJXJHJQD:
+  category: hiworld_oretech_pole
+  item-type: SAVEDITEM
+  item-name: ""
+  item-lore:
+  item-id: CJXJHJQD
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+HIWORLD_ORETECH_POLE_CJHSQD:
+  category: hiworld_oretech_pole
+  item-type: SAVEDITEM
+  item-name: ""
+  item-lore:
+  item-id: CJHSQD
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+HIWORLD_ORETECH_POLE_CJQJSQD:
+  category: hiworld_oretech_pole
+  item-type: SAVEDITEM
+  item-name: ""
+  item-lore:
+  item-id: CJQJSQD
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+HIWORLD_ORETECH_POLE_CJLBSQD:
+  category: hiworld_oretech_pole
+  item-type: SAVEDITEM
+  item-name: ""
+  item-lore:
+  item-id: CJLBSQD
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+HIWORLD_ORETECH_POLE_CJSYQD:
+  category: hiworld_oretech_pole
+  item-type: SAVEDITEM
+  item-name: ""
+  item-lore:
+  item-id: CJSYQD
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+HIWORLD_ORETECH_POLE_XWQD:
+  category: hiworld_oretech_pole
+  item-type: SAVEDITEM
+  item-name: ""
+  item-lore:
+  item-id: XWQD
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+HIWORLD_ORETECH_POLE_WXQD:
+  category: hiworld_oretech_pole
+  item-type: SAVEDITEM
+  item-name: ""
+  item-lore:
+  item-id: WXQD
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+HIWORLD_ORETECH_POLE_HDQD:
+  category: hiworld_oretech_pole
+  item-type: SAVEDITEM
+  item-name: ""
+  item-lore:
+  item-id: HDQD
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+HIWORLD_ORETECH_MATERIAL_JDLFSP:
+  category: hiworld_oretech_material
+  item-type: CUSTOM
+  item-name: "&5&l绝对立方碎片"
+  item-lore:
+  item-id: MAGENTA_DYE
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_POLE_CJHSQD
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_POLE_CJJQD
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_POLE_CJLBSQD
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_POLE_CJMTQD
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_POLE_CJQJSQD
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_POLE_CJSYQD
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_POLE_CJTQD
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_POLE_CJXJHJQD
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_POLE_CJZSQD
+      amount: 1
+HIWORLD_ORETECH_MATERIAL_JDLF:
+  category: hiworld_oretech_material
+  item-type: SAVEDITEM
+  item-name: ""
+  item-lore:
+  item-id: JDLF
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+HIWORLD_ORETECH_MATERIAL_BH2:
+  category: hiworld_oretech_material
+  item-type: SAVEDITEM
+  item-name: ""
+  item-lore:
+  item-id: BH2
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_DUST_XWCA
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_DUST_XKCA
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_DUST_WXCA
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_POLE_CJMTQD
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_BH1
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_DUST_WDCA
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_DUST_WJCA
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_DUST_HDCA
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_DUST_FSCA
+      amount: 1
+HIWORLD_ORETECH_MATERIAL_ZNJQHX:
+  category: hiworld_oretech_material
+  item-type: CUSTOM
+  item-name: "&e智能机器核心"
+  item-lore:
+  item-id: SKULLf3dfa5853f1d69e7eef5682ba1ada5b43ccba3f430de117387fcd19d8d56a65b
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: REINFORCED_ALLOY_INGOT
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: REINFORCED_ALLOY_INGOT
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: REINFORCED_ALLOY_INGOT
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: POWER_CRYSTAL
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: ANDROID_MEMORY_CORE
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: POWER_CRYSTAL
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: NUCLEAR_REACTOR
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: REDSTONE_ALLOY
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: NUCLEAR_REACTOR
+      amount: 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

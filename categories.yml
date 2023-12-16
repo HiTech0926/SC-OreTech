@@ -1,0 +1,44 @@
+hiworld_oretech:
+  type: nested
+  category-name: "&x&7&4&f&4&f&c&lH&x&7&d&e&f&f&b&li&x&8&6&e&b&f&9&l世&x&8&f&e&6&f&8&l界&x&9&8&e&1&f&7&l矿&x&a&1&d&c&f&6&l物&x&a&a&d&8&f&4&l科&x&b&3&d&3&f&3&l技"
+  category-item: SKULL8385aaedd784faef8e8f6f782fa48d07c2fc2bbcf6fea1fbc9b9862d05d228c1
+hiworld_oretech_info:
+  type: sub
+  category-name: "&x&f&c&f&c&8&9&l附&x&f&9&f&9&a&4&l属&x&f&6&f&6&b&f&l信&x&f&3&f&3&d&a&l息"
+  category-item: PAPER
+  parent: hiworld_oretech
+hiworld_oretech_extend:
+  type: sub
+  category-name: "&x&f&c&f&c&8&9矿&x&f&9&f&9&a&4物&x&f&6&f&6&b&f扩&x&f&3&f&3&d&a展"
+  category-item: SKULL8385aaedd784faef8e8f6f782fa48d07c2fc2bbcf6fea1fbc9b9862d05d228c1
+  parent: hiworld_oretech
+hiworld_oretech_material:
+  type: sub
+  category-name: "&x&f&c&f&c&8&9材&x&f&3&f&3&d&a料"
+  category-item: SKULL306b556243a6ea5ff143db23957bb6c1a7eb0e2f390ce679a4a550609992631a
+  parent: hiworld_oretech
+hiworld_oretech_part:
+  type: sub
+  category-name: "&x&f&c&f&c&8&9元&x&f&3&f&3&d&a件"
+  category-item: REDSTONE_TORCH
+  parent: hiworld_oretech
+hiworld_oretech_dust:
+  type: sub
+  category-name: "&x&f&c&f&c&8&9尘&x&f&3&f&3&d&a埃"
+  category-item: GUNPOWDER
+  parent: hiworld_oretech
+hiworld_oretech_pole:
+  type: sub
+  category-name: "&x&f&c&f&c&8&9&l奇&x&f&3&f&3&d&a&l点"
+  category-item: ENDER_EYE
+  parent: hiworld_oretech
+hiworld_oretech_machine:
+  type: sub
+  category-name: "&x&f&c&f&c&8&9机&x&f&3&f&3&d&a器"
+  category-item: SKULLda88ab0af11230d3a4683e033354c428115d52a9588c93f3263512e440214600
+  parent: hiworld_oretech
+hiworld_oretech_generator_plus:
+  type: sub
+  category-name: "&x&f&c&f&c&8&9加&x&f&b&f&b&9&5强&x&f&9&f&9&a&0版&x&f&8&f&8&a&c矿&x&f&7&f&7&b&7物&x&f&6&f&6&c&3生&x&f&4&f&4&c&e成&x&f&3&f&3&d&a器"
+  category-item: SKULL7f9f356f5fe7d1bc92cddfaeba3ee773ac9df1cc4d1c2f8fe5f47013032c551d
+  parent: hiworld_oretech

@@ -1,0 +1,18 @@
+item:
+  ==: org.bukkit.inventory.ItemStack
+  v: 2860
+  type: WITHER_SKELETON_SKULL
+  meta:
+    ==: ItemMeta
+    meta-type: SKULL
+    display-name: '{"extra":[{"obfuscated":true,"text":"l"},{"italic":false,"underlined":true,"strikethrough":true,"color":"black","text":"报"},{"italic":false,"underlined":true,"strikethrough":true,"obfuscated":true,"color":"black","text":"S"},{"italic":false,"underlined":true,"strikethrough":true,"color":"gray","text":"错"},{"italic":false,"underlined":true,"strikethrough":true,"obfuscated":true,"color":"gray","text":"n"},{"italic":false,"underlined":true,"strikethrough":true,"color":"red","text":"！"},{"italic":false,"underlined":true,"strikethrough":true,"obfuscated":true,"color":"red","text":"S"},{"italic":false,"underlined":true,"strikethrough":true,"color":"black","text":"报"},{"italic":false,"underlined":true,"strikethrough":true,"obfuscated":true,"color":"black","text":"g"},{"bold":true,"italic":false,"underlined":true,"strikethrough":true,"obfuscated":false,"color":"white","text":"错"},{"bold":true,"italic":false,"underlined":true,"strikethrough":true,"obfuscated":true,"color":"white","text":"l"},{"italic":false,"underlined":true,"strikethrough":true,"color":"black","text":"！"},{"italic":false,"underlined":true,"strikethrough":true,"obfuscated":true,"color":"black","text":"l"},{"bold":true,"italic":false,"underlined":true,"strikethrough":true,"obfuscated":false,"color":"white","text":"！"},{"italic":false,"underlined":true,"strikethrough":true,"color":"gray","text":"报"},{"italic":false,"underlined":true,"strikethrough":true,"obfuscated":true,"color":"gray","text":"L"},{"italic":false,"underlined":true,"strikethrough":true,"color":"aqua","text":"错"},{"italic":false,"underlined":true,"strikethrough":true,"obfuscated":true,"color":"aqua","text":"L"},{"italic":false,"underlined":true,"strikethrough":true,"color":"dark_purple","text":"！"},{"italic":false,"underlined":true,"strikethrough":true,"obfuscated":true,"color":"dark_purple","text":"l"},{"italic":false,"underlined":true,"strikethrough":true,"color":"dark_red","text":"！"},{"italic":false,"underlined":true,"strikethrough":true,"obfuscated":true,"color":"dark_red","text":"L"},{"italic":false,"underlined":true,"strikethrough":true,"color":"black","text":"！"},{"italic":false,"underlined":true,"strikethrough":true,"obfuscated":true,"color":"black","text":"l"}],"text":""}'
+    enchants:
+      ARROW_INFINITE: 1
+    ItemFlags:
+    - HIDE_ENCHANTS
+    - HIDE_ATTRIBUTES
+    - HIDE_UNBREAKABLE
+    - HIDE_DESTROYS
+    - HIDE_PLACED_ON
+    - HIDE_POTION_EFFECTS
+    - HIDE_DYE

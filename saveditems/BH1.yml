@@ -1,0 +1,23 @@
+item:
+  ==: org.bukkit.inventory.ItemStack
+  v: 2860
+  type: CRYING_OBSIDIAN
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC 
+    display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":true,"color":"black","text":"ii5as崩"},{"bold":true,"italic":false,"strikethrough":true,"obfuscated":false,"color":"dark_red","text":"
+      — "},{"bold":true,"italic":true,"strikethrough":false,"color":"dark_gray","text":"崩"},{"bold":true,"italic":false,"color":"gray","text":"坏
+      "},{"bold":true,"italic":false,"strikethrough":true,"color":"dark_red","text":";:>>/
+      "},{"bold":true,"italic":false,"strikethrough":false,"obfuscated":true,"color":"black","text":"坏keji:;"}],"text":""}'
+    lore:
+    - '{"extra":[{"bold":true,"italic":true,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"dark_gray","text":"这次"},{"bold":true,"italic":false,"color":"gray","text":"似乎"},{"bold":true,"italic":false,"color":"dark_blue","text":"连"},{"bold":false,"italic":false,"underlined":true,"color":"gold","text":"稳定核心"},{"bold":true,"italic":false,"underlined":false,"color":"black","text":"也稳定不下来了"},{"bold":false,"italic":false,"color":"gray","text":"···"}],"text":""}'
+    enchants:
+      ARROW_INFINITE: 1
+    ItemFlags:
+    - HIDE_ENCHANTS
+    - HIDE_ATTRIBUTES
+    - HIDE_UNBREAKABLE
+    - HIDE_DESTROYS
+    - HIDE_PLACED_ON
+    - HIDE_POTION_EFFECTS
+    - HIDE_DYE

@@ -1,0 +1,19 @@
+item:
+  ==: org.bukkit.inventory.ItemStack
+  v: 2860
+  type: WITHER_SKELETON_SKULL
+  meta:
+    ==: ItemMeta
+    meta-type: SKULL
+    display-name: '{"extra":[{"italic":false,"strikethrough":true,"color":"white","text":"真"},{"italic":false,"strikethrough":false,"obfuscated":true,"color":"dark_red","text":"K"},{"italic":false,"strikethrough":true,"color":"gray","text":"正"},{"italic":false,"strikethrough":true,"obfuscated":true,"color":"gray","text":"G"},{"italic":false,"strikethrough":true,"color":"gold","text":"的"},{"italic":false,"strikethrough":true,"obfuscated":true,"color":"gold","text":"O"},{"italic":false,"strikethrough":true,"color":"red","text":"混"},{"italic":false,"strikethrough":true,"obfuscated":true,"color":"red","text":"O"},{"italic":false,"strikethrough":true,"color":"black","text":"沌"}],"text":""}'
+    enchants:
+      ARROW_INFINITE: 1
+    ItemFlags:
+    - HIDE_ENCHANTS
+    - HIDE_ATTRIBUTES
+    - HIDE_UNBREAKABLE
+    - HIDE_DESTROYS
+    - HIDE_PLACED_ON
+    - HIDE_POTION_EFFECTS
+    - HIDE_DYE
+

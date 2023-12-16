@@ -1,0 +1,1167 @@
+HIWORLD_ORETECH_MACHINE_KWZNGC1:
+  category: hiworld_oretech_machine
+  machine-name: '&c矿物智能工厂I'
+  machine-lore:
+  - '&7可以通过矿物核心运作机器'
+  block-type: FURNACE
+  progress-bar-item: NETHER_STAR
+  stats:
+    energy-consumption: 5
+    energy-buffer: 100
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: BILLON_INGOT
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_KWHX1
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: BILLON_INGOT
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: REINFORCED_PLATE
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_ZNJQHX
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: REINFORCED_PLATE
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: STEEL_INGOT
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: STEEL_INGOT
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: STEEL_INGOT
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 30
+      input:
+        '1':
+          type: VANILLA
+          id: IRON_INGOT
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: HIWORLD_ORETECH_MATERIAL_KWHX1
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: IRON_BLOCK
+          amount: 64
+        '2':
+          type: VANILLA
+          id: IRON_BLOCK
+          amount: 32
+    '2':
+      speed-in-seconds: 30
+      input:
+        '1':
+          type: VANILLA
+          id: DIAMOND
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: HIWORLD_ORETECH_MATERIAL_KWHX1
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: DIAMOND_BLOCK
+          amount: 64
+        '2':
+          type: VANILLA
+          id: DIAMOND_BLOCK
+          amount: 32
+    '3':
+      speed-in-seconds: 30
+      input:
+        '1':
+          type: VANILLA
+          id: COAL
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: HIWORLD_ORETECH_MATERIAL_KWHX1
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: COAL_BLOCK
+          amount: 64
+        '2':
+          type: VANILLA
+          id: COAL_BLOCK
+          amount: 32
+    '4':
+      speed-in-seconds: 30
+      input:
+        '1':
+          type: VANILLA
+          id: GOLD_INGOT
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: HIWORLD_ORETECH_MATERIAL_KWHX1
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: GOLD_BLOCK
+          amount: 64
+        '2':
+          type: VANILLA
+          id: GOLD_BLOCK
+          amount: 32
+    '5':
+      speed-in-seconds: 30
+      input:
+        '1':
+          type: VANILLA
+          id: NETHERITE_INGOT
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: HIWORLD_ORETECH_MATERIAL_KWHX1
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: NETHERITE_BLOCK
+          amount: 64
+        '2':
+          type: VANILLA
+          id: NETHERITE_BLOCK
+          amount: 32
+    '6':
+      speed-in-seconds: 30
+      input:
+        '1':
+          type: VANILLA
+          id: EMERALD
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: HIWORLD_ORETECH_MATERIAL_KWHX1
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: EMERALD_BLOCK
+          amount: 64
+        '2':
+          type: VANILLA
+          id: EMERALD_BLOCK
+          amount: 32
+    '7':
+      speed-in-seconds: 30
+      input:
+        '1':
+          type: VANILLA
+          id: REDSTONE
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: HIWORLD_ORETECH_MATERIAL_KWHX1
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: REDSTONE_BLOCK
+          amount: 64
+        '2':
+          type: VANILLA
+          id: REDSTONE_BLOCK
+          amount: 32
+    '8':
+      speed-in-seconds: 30
+      input:
+        '1':
+          type: VANILLA
+          id: LAPIS_LAZULI
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: HIWORLD_ORETECH_MATERIAL_KWHX1
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: LAPIS_BLOCK
+          amount: 64
+        '2':
+          type: VANILLA
+          id: LAPIS_BLOCK
+          amount: 32
+    '9':
+      speed-in-seconds: 30
+      input:
+        '1':
+          type: VANILLA
+          id: QUARTZ
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: HIWORLD_ORETECH_MATERIAL_KWHX1
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: QUARTZ_BLOCK
+          amount: 64
+        '2':
+          type: VANILLA
+          id: QUARTZ_BLOCK
+          amount: 32
+    '10':
+      speed-in-seconds: 30
+      input:
+        '1':
+          type: SLIMEFUN
+          id: COPPER_INGOT
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: HIWORLD_ORETECH_MATERIAL_KWHX1
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: COPPER_INGOT
+          amount: 64
+        '2':
+          type: SLIMEFUN
+          id: COPPER_INGOT
+          amount: 64
+    '11':
+      speed-in-seconds: 30
+      input:
+        '1':
+          type: SLIMEFUN
+          id: TIN_INGOT
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: HIWORLD_ORETECH_MATERIAL_KWHX1
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: TIN_INGOT
+          amount: 64
+        '2':
+          type: SLIMEFUN
+          id: TIN_INGOT
+          amount: 64
+    '12':
+      speed-in-seconds: 30
+      input:
+        '1':
+          type: SLIMEFUN
+          id: SILVER_INGOT
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: HIWORLD_ORETECH_MATERIAL_KWHX1
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: SILVER_INGOT
+          amount: 64
+        '2':
+          type: SLIMEFUN
+          id: SILVER_INGOT
+          amount: 64
+    '13':
+      speed-in-seconds: 30
+      input:
+        '1':
+          type: SLIMEFUN
+          id: LEAD_INGOT
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: HIWORLD_ORETECH_MATERIAL_KWHX1
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: LEAD_INGOT
+          amount: 64
+        '2':
+          type: SLIMEFUN
+          id: LEAD_INGOT
+          amount: 64
+    '14':
+      speed-in-seconds: 30
+      input:
+        '1':
+          type: SLIMEFUN
+          id: ALUMINUM_INGOT
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: HIWORLD_ORETECH_MATERIAL_KWHX1
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ALUMINUM_INGOT
+          amount: 64
+        '2':
+          type: SLIMEFUN
+          id: ALUMINUM_INGOT
+          amount: 64
+    '15':
+      speed-in-seconds: 30
+      input:
+        '1':
+          type: SLIMEFUN
+          id: ZINC_INGOT
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: HIWORLD_ORETECH_MATERIAL_KWHX1
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ZINC_INGOT
+          amount: 64
+        '2':
+          type: SLIMEFUN
+          id: ZINC_INGOT
+          amount: 64
+    '16':
+      speed-in-seconds: 30
+      input:
+        '1':
+          type: SLIMEFUN
+          id: MAGNESIUM_INGOT
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: HIWORLD_ORETECH_MATERIAL_KWHX1
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: MAGNESIUM_INGOT
+          amount: 64
+        '2':
+          type: SLIMEFUN
+          id: MAGNESIUM_INGOT
+          amount: 64
+    '17':
+      speed-in-seconds: 30
+      input:
+        '1':
+          type: SLIMEFUN
+          id: GOLD_4K
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: HIWORLD_ORETECH_MATERIAL_KWHX1
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: GOLD_4K
+          amount: 64
+        '2':
+          type: SLIMEFUN
+          id: GOLD_4K
+          amount: 64
+HIWORLD_ORETECH_MACHINE_KWZNGC2:
+  category: hiworld_oretech_machine
+  machine-name: '&c矿物智能工厂II'
+  machine-lore:
+  - '&7可以通过矿物核心运作机器'
+  block-type: FURNACE
+  progress-bar-item: NETHER_STAR
+  stats:
+    energy-consumption: 10
+    energy-buffer: 200
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: BILLON_INGOT
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_KWHX2
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: BILLON_INGOT
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: REINFORCED_PLATE
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_ZNJQHX
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: REINFORCED_PLATE
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: STEEL_INGOT
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: STEEL_INGOT
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: STEEL_INGOT
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 20
+      input:
+        '1':
+          type: VANILLA
+          id: IRON_INGOT
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: HIWORLD_ORETECH_MATERIAL_KWHX2
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: IRON_BLOCK
+          amount: 64
+        '2':
+          type: VANILLA
+          id: IRON_BLOCK
+          amount: 32
+    '2':
+      speed-in-seconds: 20
+      input:
+        '1':
+          type: VANILLA
+          id: DIAMOND
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: HIWORLD_ORETECH_MATERIAL_KWHX2
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: DIAMOND_BLOCK
+          amount: 64
+        '2':
+          type: VANILLA
+          id: DIAMOND_BLOCK
+          amount: 32
+    '3':
+      speed-in-seconds: 20
+      input:
+        '1':
+          type: VANILLA
+          id: COAL
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: HIWORLD_ORETECH_MATERIAL_KWHX2
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: COAL_BLOCK
+          amount: 64
+        '2':
+          type: VANILLA
+          id: COAL_BLOCK
+          amount: 32
+    '4':
+      speed-in-seconds: 20
+      input:
+        '1':
+          type: VANILLA
+          id: GOLD_INGOT
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: HIWORLD_ORETECH_MATERIAL_KWHX2
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: GOLD_BLOCK
+          amount: 64
+        '2':
+          type: VANILLA
+          id: GOLD_BLOCK
+          amount: 32
+    '5':
+      speed-in-seconds: 20
+      input:
+        '1':
+          type: VANILLA
+          id: NETHERITE_INGOT
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: HIWORLD_ORETECH_MATERIAL_KWHX2
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: NETHERITE_BLOCK
+          amount: 64
+        '2':
+          type: VANILLA
+          id: NETHERITE_BLOCK
+          amount: 32
+    '6':
+      speed-in-seconds: 20
+      input:
+        '1':
+          type: VANILLA
+          id: EMERALD
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: HIWORLD_ORETECH_MATERIAL_KWHX2
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: EMERALD_BLOCK
+          amount: 64
+        '2':
+          type: VANILLA
+          id: EMERALD_BLOCK
+          amount: 32
+    '7':
+      speed-in-seconds: 20
+      input:
+        '1':
+          type: VANILLA
+          id: REDSTONE
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: HIWORLD_ORETECH_MATERIAL_KWHX2
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: REDSTONE_BLOCK
+          amount: 64
+        '2':
+          type: VANILLA
+          id: REDSTONE_BLOCK
+          amount: 32
+    '8':
+      speed-in-seconds: 20
+      input:
+        '1':
+          type: VANILLA
+          id: LAPIS_LAZULI
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: HIWORLD_ORETECH_MATERIAL_KWHX2
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: LAPIS_BLOCK
+          amount: 64
+        '2':
+          type: VANILLA
+          id: LAPIS_BLOCK
+          amount: 32
+    '9':
+      speed-in-seconds: 20
+      input:
+        '1':
+          type: VANILLA
+          id: QUARTZ
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: HIWORLD_ORETECH_MATERIAL_KWHX2
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: QUARTZ_BLOCK
+          amount: 64
+        '2':
+          type: VANILLA
+          id: QUARTZ_BLOCK
+          amount: 32
+    '10':
+      speed-in-seconds: 20
+      input:
+        '1':
+          type: SLIMEFUN
+          id: COPPER_INGOT
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: HIWORLD_ORETECH_MATERIAL_KWHX2
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: COPPER_INGOT
+          amount: 64
+        '2':
+          type: SLIMEFUN
+          id: COPPER_INGOT
+          amount: 64
+    '11':
+      speed-in-seconds: 20
+      input:
+        '1':
+          type: SLIMEFUN
+          id: TIN_INGOT
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: HIWORLD_ORETECH_MATERIAL_KWHX2
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: TIN_INGOT
+          amount: 64
+        '2':
+          type: SLIMEFUN
+          id: TIN_INGOT
+          amount: 64
+    '12':
+      speed-in-seconds: 20
+      input:
+        '1':
+          type: SLIMEFUN
+          id: SILVER_INGOT
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: HIWORLD_ORETECH_MATERIAL_KWHX2
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: SILVER_INGOT
+          amount: 64
+        '2':
+          type: SLIMEFUN
+          id: SILVER_INGOT
+          amount: 64
+    '13':
+      speed-in-seconds: 20
+      input:
+        '1':
+          type: SLIMEFUN
+          id: LEAD_INGOT
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: HIWORLD_ORETECH_MATERIAL_KWHX2
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: LEAD_INGOT
+          amount: 64
+        '2':
+          type: SLIMEFUN
+          id: LEAD_INGOT
+          amount: 64
+    '14':
+      speed-in-seconds: 20
+      input:
+        '1':
+          type: SLIMEFUN
+          id: ALUMINUM_INGOT
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: HIWORLD_ORETECH_MATERIAL_KWHX2
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ALUMINUM_INGOT
+          amount: 64
+        '2':
+          type: SLIMEFUN
+          id: ALUMINUM_INGOT
+          amount: 64
+    '15':
+      speed-in-seconds: 20
+      input:
+        '1':
+          type: SLIMEFUN
+          id: ZINC_INGOT
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: HIWORLD_ORETECH_MATERIAL_KWHX2
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ZINC_INGOT
+          amount: 64
+        '2':
+          type: SLIMEFUN
+          id: ZINC_INGOT
+          amount: 64
+    '16':
+      speed-in-seconds: 20
+      input:
+        '1':
+          type: SLIMEFUN
+          id: MAGNESIUM_INGOT
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: HIWORLD_ORETECH_MATERIAL_KWHX2
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: MAGNESIUM_INGOT
+          amount: 64
+        '2':
+          type: SLIMEFUN
+          id: MAGNESIUM_INGOT
+          amount: 64
+    '17':
+      speed-in-seconds: 20
+      input:
+        '1':
+          type: SLIMEFUN
+          id: GOLD_4K
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: HIWORLD_ORETECH_MATERIAL_KWHX2
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: GOLD_4K
+          amount: 64
+        '2':
+          type: SLIMEFUN
+          id: GOLD_4K
+          amount: 64
+HIWORLD_ORETECH_MACHINE_KWZNGC3:
+  category: hiworld_oretech_machine
+  machine-name: '&c矿物智能工厂III'
+  machine-lore:
+  - '&7可以通过矿物核心运作机器'
+  block-type: FURNACE
+  progress-bar-item: NETHER_STAR
+  stats:
+    energy-consumption: 15
+    energy-buffer: 300
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: BILLON_INGOT
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_KWHX3
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: BILLON_INGOT
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: REINFORCED_PLATE
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: HIWORLD_ORETECH_MATERIAL_ZNJQHX
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: REINFORCED_PLATE
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: STEEL_INGOT
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: STEEL_INGOT
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: STEEL_INGOT
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 15
+      input:
+        '1':
+          type: VANILLA
+          id: IRON_INGOT
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: HIWORLD_ORETECH_MATERIAL_KWHX2
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: IRON_BLOCK
+          amount: 64
+        '2':
+          type: VANILLA
+          id: IRON_BLOCK
+          amount: 32
+    '2':
+      speed-in-seconds: 15
+      input:
+        '1':
+          type: VANILLA
+          id: DIAMOND
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: HIWORLD_ORETECH_MATERIAL_KWHX2
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: DIAMOND_BLOCK
+          amount: 64
+        '2':
+          type: VANILLA
+          id: DIAMOND_BLOCK
+          amount: 32
+    '3':
+      speed-in-seconds: 15
+      input:
+        '1':
+          type: VANILLA
+          id: COAL
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: HIWORLD_ORETECH_MATERIAL_KWHX2
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: COAL_BLOCK
+          amount: 64
+        '2':
+          type: VANILLA
+          id: COAL_BLOCK
+          amount: 32
+    '4':
+      speed-in-seconds: 15
+      input:
+        '1':
+          type: VANILLA
+          id: GOLD_INGOT
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: HIWORLD_ORETECH_MATERIAL_KWHX2
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: GOLD_BLOCK
+          amount: 64
+        '2':
+          type: VANILLA
+          id: GOLD_BLOCK
+          amount: 32
+    '5':
+      speed-in-seconds: 15
+      input:
+        '1':
+          type: VANILLA
+          id: NETHERITE_INGOT
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: HIWORLD_ORETECH_MATERIAL_KWHX2
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: NETHERITE_BLOCK
+          amount: 64
+        '2':
+          type: VANILLA
+          id: NETHERITE_BLOCK
+          amount: 32
+    '6':
+      speed-in-seconds: 15
+      input:
+        '1':
+          type: VANILLA
+          id: EMERALD
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: HIWORLD_ORETECH_MATERIAL_KWHX2
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: EMERALD_BLOCK
+          amount: 64
+        '2':
+          type: VANILLA
+          id: EMERALD_BLOCK
+          amount: 32
+    '7':
+      speed-in-seconds: 15
+      input:
+        '1':
+          type: VANILLA
+          id: REDSTONE
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: HIWORLD_ORETECH_MATERIAL_KWHX2
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: REDSTONE_BLOCK
+          amount: 64
+        '2':
+          type: VANILLA
+          id: REDSTONE_BLOCK
+          amount: 32
+    '8':
+      speed-in-seconds: 15
+      input:
+        '1':
+          type: VANILLA
+          id: LAPIS_LAZULI
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: HIWORLD_ORETECH_MATERIAL_KWHX2
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: LAPIS_BLOCK
+          amount: 64
+        '2':
+          type: VANILLA
+          id: LAPIS_BLOCK
+          amount: 32
+    '9':
+      speed-in-seconds: 15
+      input:
+        '1':
+          type: VANILLA
+          id: QUARTZ
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: HIWORLD_ORETECH_MATERIAL_KWHX2
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: QUARTZ_BLOCK
+          amount: 64
+        '2':
+          type: VANILLA
+          id: QUARTZ_BLOCK
+          amount: 32
+    '10':
+      speed-in-seconds: 15
+      input:
+        '1':
+          type: SLIMEFUN
+          id: COPPER_INGOT
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: HIWORLD_ORETECH_MATERIAL_KWHX2
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: COPPER_INGOT
+          amount: 64
+        '2':
+          type: SLIMEFUN
+          id: COPPER_INGOT
+          amount: 64
+    '11':
+      speed-in-seconds: 15
+      input:
+        '1':
+          type: SLIMEFUN
+          id: TIN_INGOT
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: HIWORLD_ORETECH_MATERIAL_KWHX2
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: TIN_INGOT
+          amount: 64
+        '2':
+          type: SLIMEFUN
+          id: TIN_INGOT
+          amount: 64
+    '12':
+      speed-in-seconds: 15
+      input:
+        '1':
+          type: SLIMEFUN
+          id: SILVER_INGOT
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: HIWORLD_ORETECH_MATERIAL_KWHX2
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: SILVER_INGOT
+          amount: 64
+        '2':
+          type: SLIMEFUN
+          id: SILVER_INGOT
+          amount: 64
+    '13':
+      speed-in-seconds: 15
+      input:
+        '1':
+          type: SLIMEFUN
+          id: LEAD_INGOT
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: HIWORLD_ORETECH_MATERIAL_KWHX2
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: LEAD_INGOT
+          amount: 64
+        '2':
+          type: SLIMEFUN
+          id: LEAD_INGOT
+          amount: 64
+    '14':
+      speed-in-seconds: 15
+      input:
+        '1':
+          type: SLIMEFUN
+          id: ALUMINUM_INGOT
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: HIWORLD_ORETECH_MATERIAL_KWHX2
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ALUMINUM_INGOT
+          amount: 64
+        '2':
+          type: SLIMEFUN
+          id: ALUMINUM_INGOT
+          amount: 64
+    '15':
+      speed-in-seconds: 15
+      input:
+        '1':
+          type: SLIMEFUN
+          id: ZINC_INGOT
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: HIWORLD_ORETECH_MATERIAL_KWHX2
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ZINC_INGOT
+          amount: 64
+        '2':
+          type: SLIMEFUN
+          id: ZINC_INGOT
+          amount: 64
+    '16':
+      speed-in-seconds: 15
+      input:
+        '1':
+          type: SLIMEFUN
+          id: MAGNESIUM_INGOT
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: HIWORLD_ORETECH_MATERIAL_KWHX2
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: MAGNESIUM_INGOT
+          amount: 64
+        '2':
+          type: SLIMEFUN
+          id: MAGNESIUM_INGOT
+          amount: 64
+    '17':
+      speed-in-seconds: 15
+      input:
+        '1':
+          type: SLIMEFUN
+          id: GOLD_4K
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: HIWORLD_ORETECH_MATERIAL_KWHX2
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: GOLD_4K
+          amount: 64
+        '2':
+          type: SLIMEFUN
+          id: GOLD_4K
+          amount: 64
