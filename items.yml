@@ -206,6 +206,7 @@ HIWORLD_ORETECH_CHENMOSE:
       type: NONE
       id: N/A
       amount: 1
+
 HIWORLD_ORETECH_EXTEND_YSTK1:
   category: hiworld_oretech_extend
   item-type: CUSTOM
@@ -215,7 +216,7 @@ HIWORLD_ORETECH_EXTEND_YSTK1:
   item-id: IRON_BLOCK
   item-amount: 1
   placeable: false
-  crafting-recipe-type: COMPRESSOR
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
       type: VANILLA
@@ -262,7 +263,7 @@ HIWORLD_ORETECH_EXTEND_YSTK2:
   item-id: IRON_BLOCK
   item-amount: 1
   placeable: false
-  crafting-recipe-type: COMPRESSOR
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
       type: SLIMEFUN
@@ -309,7 +310,7 @@ HIWORLD_ORETECH_EXTEND_YSTK3:
   item-id: IRON_BLOCK
   item-amount: 1
   placeable: false
-  crafting-recipe-type: COMPRESSOR
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
       type: SLIMEFUN
@@ -356,7 +357,7 @@ HIWORLD_ORETECH_EXTEND_YSTK4:
   item-id: IRON_BLOCK
   item-amount: 1
   placeable: false
-  crafting-recipe-type: COMPRESSOR
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
       type: SLIMEFUN
@@ -403,7 +404,7 @@ HIWORLD_ORETECH_EXTEND_YSTK5:
   item-id: IRON_BLOCK
   item-amount: 1
   placeable: false
-  crafting-recipe-type: COMPRESSOR
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
       type: SLIMEFUN
@@ -450,7 +451,7 @@ HIWORLD_ORETECH_EXTEND_YSTK6:
   item-id: IRON_BLOCK
   item-amount: 1
   placeable: false
-  crafting-recipe-type: COMPRESSOR
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
       type: SLIMEFUN
@@ -497,7 +498,7 @@ HIWORLD_ORETECH_EXTEND_YSTK7:
   item-id: IRON_BLOCK
   item-amount: 1
   placeable: false
-  crafting-recipe-type: COMPRESSOR
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
       type: SLIMEFUN
@@ -544,7 +545,7 @@ HIWORLD_ORETECH_EXTEND_YSTK8:
   item-id: IRON_BLOCK
   item-amount: 1
   placeable: false
-  crafting-recipe-type: COMPRESSOR
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
       type: SLIMEFUN
@@ -592,7 +593,7 @@ HIWORLD_ORETECH_EXTEND_YSTK9:
   item-id: IRON_BLOCK
   item-amount: 1
   placeable: false
-  crafting-recipe-type: COMPRESSOR
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
       type: SLIMEFUN
@@ -639,7 +640,7 @@ HIWORLD_ORETECH_EXTEND_YSZSK1:
   item-id: DIAMOND_BLOCK
   item-amount: 1
   placeable: false
-  crafting-recipe-type: COMPRESSOR
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
       type: VANILLA
@@ -686,7 +687,7 @@ HIWORLD_ORETECH_EXTEND_YSZSK2:
   item-id: DIAMOND_BLOCK
   item-amount: 1
   placeable: false
-  crafting-recipe-type: COMPRESSOR
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
       type: SLIMEFUN
@@ -733,7 +734,7 @@ HIWORLD_ORETECH_EXTEND_YSZSK3:
   item-id: DIAMOND_BLOCK
   item-amount: 1
   placeable: false
-  crafting-recipe-type: COMPRESSOR
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
       type: SLIMEFUN
@@ -780,7 +781,7 @@ HIWORLD_ORETECH_EXTEND_YSZSK4:
   item-id: DIAMOND_BLOCK
   item-amount: 1
   placeable: false
-  crafting-recipe-type: COMPRESSOR
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
       type: SLIMEFUN
@@ -827,7 +828,7 @@ HIWORLD_ORETECH_EXTEND_YSZSK5:
   item-id: DIAMOND_BLOCK
   item-amount: 1
   placeable: false
-  crafting-recipe-type: COMPRESSOR
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
       type: SLIMEFUN
@@ -874,7 +875,7 @@ HIWORLD_ORETECH_EXTEND_YSZSK6:
   item-id: DIAMOND_BLOCK
   item-amount: 1
   placeable: false
-  crafting-recipe-type: COMPRESSOR
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
       type: SLIMEFUN
@@ -921,7 +922,7 @@ HIWORLD_ORETECH_EXTEND_YSZSK7:
   item-id: DIAMOND_BLOCK
   item-amount: 1
   placeable: false
-  crafting-recipe-type: COMPRESSOR
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
       type: SLIMEFUN
@@ -968,7 +969,7 @@ HIWORLD_ORETECH_EXTEND_YSZSK8:
   item-id: DIAMOND_BLOCK
   item-amount: 1
   placeable: false
-  crafting-recipe-type: COMPRESSOR
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
       type: SLIMEFUN
@@ -1016,7 +1017,7 @@ HIWORLD_ORETECH_EXTEND_YSZSK9:
   item-id: DIAMOND_BLOCK
   item-amount: 1
   placeable: false
-  crafting-recipe-type: COMPRESSOR
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
       type: SLIMEFUN
@@ -1063,7 +1064,7 @@ HIWORLD_ORETECH_EXTEND_YSJK1:
   item-id: GOLD_BLOCK
   item-amount: 1
   placeable: false
-  crafting-recipe-type: COMPRESSOR
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
       type: VANILLA
@@ -1110,7 +1111,7 @@ HIWORLD_ORETECH_EXTEND_YSJK2:
   item-id: GOLD_BLOCK
   item-amount: 1
   placeable: false
-  crafting-recipe-type: COMPRESSOR
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
       type: SLIMEFUN
@@ -1157,7 +1158,7 @@ HIWORLD_ORETECH_EXTEND_YSJK3:
   item-id: GOLD_BLOCK
   item-amount: 1
   placeable: false
-  crafting-recipe-type: COMPRESSOR
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
       type: SLIMEFUN
@@ -1204,7 +1205,7 @@ HIWORLD_ORETECH_EXTEND_YSJK4:
   item-id: GOLD_BLOCK
   item-amount: 1
   placeable: false
-  crafting-recipe-type: COMPRESSOR
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
       type: SLIMEFUN
@@ -1251,7 +1252,7 @@ HIWORLD_ORETECH_EXTEND_YSJK5:
   item-id: GOLD_BLOCK
   item-amount: 1
   placeable: false
-  crafting-recipe-type: COMPRESSOR
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
       type: SLIMEFUN
@@ -1298,7 +1299,7 @@ HIWORLD_ORETECH_EXTEND_YSJK6:
   item-id: GOLD_BLOCK
   item-amount: 1
   placeable: false
-  crafting-recipe-type: COMPRESSOR
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
       type: SLIMEFUN
@@ -1345,7 +1346,7 @@ HIWORLD_ORETECH_EXTEND_YSJK7:
   item-id: GOLD_BLOCK
   item-amount: 1
   placeable: false
-  crafting-recipe-type: COMPRESSOR
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
       type: SLIMEFUN
@@ -1392,7 +1393,7 @@ HIWORLD_ORETECH_EXTEND_YSJK8:
   item-id: GOLD_BLOCK
   item-amount: 1
   placeable: false
-  crafting-recipe-type: COMPRESSOR
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
       type: SLIMEFUN
@@ -1440,7 +1441,7 @@ HIWORLD_ORETECH_EXTEND_YSJK9:
   item-id: GOLD_BLOCK
   item-amount: 1
   placeable: false
-  crafting-recipe-type: COMPRESSOR
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
       type: SLIMEFUN
@@ -1487,7 +1488,7 @@ HIWORLD_ORETECH_EXTEND_YSMTK1:
   item-id: COAL_BLOCK
   item-amount: 1
   placeable: false
-  crafting-recipe-type: COMPRESSOR
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
       type: VANILLA
@@ -1534,7 +1535,7 @@ HIWORLD_ORETECH_EXTEND_YSMTK2:
   item-id: COAL_BLOCK
   item-amount: 1
   placeable: false
-  crafting-recipe-type: COMPRESSOR
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
       type: SLIMEFUN
@@ -1581,7 +1582,7 @@ HIWORLD_ORETECH_EXTEND_YSMTK3:
   item-id: COAL_BLOCK
   item-amount: 1
   placeable: false
-  crafting-recipe-type: COMPRESSOR
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
       type: SLIMEFUN
@@ -1628,7 +1629,7 @@ HIWORLD_ORETECH_EXTEND_YSMTK4:
   item-id: COAL_BLOCK
   item-amount: 1
   placeable: false
-  crafting-recipe-type: COMPRESSOR
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
       type: SLIMEFUN
@@ -1675,7 +1676,7 @@ HIWORLD_ORETECH_EXTEND_YSMTK5:
   item-id: COAL_BLOCK
   item-amount: 1
   placeable: false
-  crafting-recipe-type: COMPRESSOR
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
       type: SLIMEFUN
@@ -1722,7 +1723,7 @@ HIWORLD_ORETECH_EXTEND_YSMTK6:
   item-id: COAL_BLOCK
   item-amount: 1
   placeable: false
-  crafting-recipe-type: COMPRESSOR
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
       type: SLIMEFUN
@@ -1769,7 +1770,7 @@ HIWORLD_ORETECH_EXTEND_YSMTK7:
   item-id: COAL_BLOCK
   item-amount: 1
   placeable: false
-  crafting-recipe-type: COMPRESSOR
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
       type: SLIMEFUN
@@ -1816,7 +1817,7 @@ HIWORLD_ORETECH_EXTEND_YSMTK8:
   item-id: COAL_BLOCK
   item-amount: 1
   placeable: false
-  crafting-recipe-type: COMPRESSOR
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
       type: SLIMEFUN
@@ -1864,7 +1865,7 @@ HIWORLD_ORETECH_EXTEND_YSMTK9:
   item-id: COAL_BLOCK
   item-amount: 1
   placeable: false
-  crafting-recipe-type: COMPRESSOR
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
       type: SLIMEFUN
@@ -1911,7 +1912,7 @@ HIWORLD_ORETECH_EXTEND_YSLBSK1:
   item-id: EMERALD_BLOCK
   item-amount: 1
   placeable: false
-  crafting-recipe-type: COMPRESSOR
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
       type: VANILLA
@@ -1958,7 +1959,7 @@ HIWORLD_ORETECH_EXTEND_YSLBSK2:
   item-id: EMERALD_BLOCK
   item-amount: 1
   placeable: false
-  crafting-recipe-type: COMPRESSOR
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
       type: SLIMEFUN
@@ -2005,7 +2006,7 @@ HIWORLD_ORETECH_EXTEND_YSLBSK3:
   item-id: EMERALD_BLOCK
   item-amount: 1
   placeable: false
-  crafting-recipe-type: COMPRESSOR
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
       type: SLIMEFUN
@@ -2052,7 +2053,7 @@ HIWORLD_ORETECH_EXTEND_YSLBSK4:
   item-id: EMERALD_BLOCK
   item-amount: 1
   placeable: false
-  crafting-recipe-type: COMPRESSOR
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
       type: SLIMEFUN
@@ -2099,7 +2100,7 @@ HIWORLD_ORETECH_EXTEND_YSLBSK5:
   item-id: EMERALD_BLOCK
   item-amount: 1
   placeable: false
-  crafting-recipe-type: COMPRESSOR
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
       type: SLIMEFUN
@@ -2146,7 +2147,7 @@ HIWORLD_ORETECH_EXTEND_YSLBSK6:
   item-id: EMERALD_BLOCK
   item-amount: 1
   placeable: false
-  crafting-recipe-type: COMPRESSOR
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
       type: SLIMEFUN
@@ -2193,7 +2194,7 @@ HIWORLD_ORETECH_EXTEND_YSLBSK7:
   item-id: EMERALD_BLOCK
   item-amount: 1
   placeable: false
-  crafting-recipe-type: COMPRESSOR
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
       type: SLIMEFUN
@@ -2240,7 +2241,7 @@ HIWORLD_ORETECH_EXTEND_YSLBSK8:
   item-id: EMERALD_BLOCK
   item-amount: 1
   placeable: false
-  crafting-recipe-type: COMPRESSOR
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
       type: SLIMEFUN
@@ -2288,7 +2289,7 @@ HIWORLD_ORETECH_EXTEND_YSLBSK9:
   item-id: EMERALD_BLOCK
   item-amount: 1
   placeable: false
-  crafting-recipe-type: COMPRESSOR
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
       type: SLIMEFUN
@@ -2335,7 +2336,7 @@ HIWORLD_ORETECH_EXTEND_YSHSK1:
   item-id: REDSTONE_BLOCK
   item-amount: 1
   placeable: false
-  crafting-recipe-type: COMPRESSOR
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
       type: VANILLA
@@ -2382,7 +2383,7 @@ HIWORLD_ORETECH_EXTEND_YSHSK2:
   item-id: REDSTONE_BLOCK
   item-amount: 1
   placeable: false
-  crafting-recipe-type: COMPRESSOR
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
       type: SLIMEFUN
@@ -2429,7 +2430,7 @@ HIWORLD_ORETECH_EXTEND_YSHSK3:
   item-id: REDSTONE_BLOCK
   item-amount: 1
   placeable: false
-  crafting-recipe-type: COMPRESSOR
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
       type: SLIMEFUN
@@ -2476,7 +2477,7 @@ HIWORLD_ORETECH_EXTEND_YSHSK4:
   item-id: REDSTONE_BLOCK
   item-amount: 1
   placeable: false
-  crafting-recipe-type: COMPRESSOR
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
       type: SLIMEFUN
@@ -2523,7 +2524,7 @@ HIWORLD_ORETECH_EXTEND_YSHSK5:
   item-id: REDSTONE_BLOCK
   item-amount: 1
   placeable: false
-  crafting-recipe-type: COMPRESSOR
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
       type: SLIMEFUN
@@ -2570,7 +2571,7 @@ HIWORLD_ORETECH_EXTEND_YSHSK6:
   item-id: REDSTONE_BLOCK
   item-amount: 1
   placeable: false
-  crafting-recipe-type: COMPRESSOR
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
       type: SLIMEFUN
@@ -2617,7 +2618,7 @@ HIWORLD_ORETECH_EXTEND_YSHSK7:
   item-id: REDSTONE_BLOCK
   item-amount: 1
   placeable: false
-  crafting-recipe-type: COMPRESSOR
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
       type: SLIMEFUN
@@ -2664,7 +2665,7 @@ HIWORLD_ORETECH_EXTEND_YSHSK8:
   item-id: REDSTONE_BLOCK
   item-amount: 1
   placeable: false
-  crafting-recipe-type: COMPRESSOR
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
       type: SLIMEFUN
@@ -2712,7 +2713,7 @@ HIWORLD_ORETECH_EXTEND_YSHSK9:
   item-id: REDSTONE_BLOCK
   item-amount: 1
   placeable: false
-  crafting-recipe-type: COMPRESSOR
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
       type: SLIMEFUN
@@ -2759,7 +2760,7 @@ HIWORLD_ORETECH_EXTEND_YSXJHJK1:
   item-id: NETHERITE_BLOCK
   item-amount: 1
   placeable: false
-  crafting-recipe-type: COMPRESSOR
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
       type: VANILLA
@@ -2806,7 +2807,7 @@ HIWORLD_ORETECH_EXTEND_YSXJHJK2:
   item-id: NETHERITE_BLOCK
   item-amount: 1
   placeable: false
-  crafting-recipe-type: COMPRESSOR
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
       type: SLIMEFUN
@@ -2853,7 +2854,7 @@ HIWORLD_ORETECH_EXTEND_YSXJHJK3:
   item-id: NETHERITE_BLOCK
   item-amount: 1
   placeable: false
-  crafting-recipe-type: COMPRESSOR
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
       type: SLIMEFUN
@@ -2900,7 +2901,7 @@ HIWORLD_ORETECH_EXTEND_YSXJHJK4:
   item-id: NETHERITE_BLOCK
   item-amount: 1
   placeable: false
-  crafting-recipe-type: COMPRESSOR
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
       type: SLIMEFUN
@@ -2947,7 +2948,7 @@ HIWORLD_ORETECH_EXTEND_YSXJHJK5:
   item-id: NETHERITE_BLOCK
   item-amount: 1
   placeable: false
-  crafting-recipe-type: COMPRESSOR
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
       type: SLIMEFUN
@@ -2994,7 +2995,7 @@ HIWORLD_ORETECH_EXTEND_YSXJHJK6:
   item-id: NETHERITE_BLOCK
   item-amount: 1
   placeable: false
-  crafting-recipe-type: COMPRESSOR
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
       type: SLIMEFUN
@@ -3041,7 +3042,7 @@ HIWORLD_ORETECH_EXTEND_YSXJHJK7:
   item-id: NETHERITE_BLOCK
   item-amount: 1
   placeable: false
-  crafting-recipe-type: COMPRESSOR
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
       type: SLIMEFUN
@@ -3088,7 +3089,7 @@ HIWORLD_ORETECH_EXTEND_YSXJHJK8:
   item-id: NETHERITE_BLOCK
   item-amount: 1
   placeable: false
-  crafting-recipe-type: COMPRESSOR
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
       type: SLIMEFUN
@@ -3136,7 +3137,7 @@ HIWORLD_ORETECH_EXTEND_YSXJHJK9:
   item-id: NETHERITE_BLOCK
   item-amount: 1
   placeable: false
-  crafting-recipe-type: COMPRESSOR
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
       type: SLIMEFUN
@@ -3183,7 +3184,7 @@ HIWORLD_ORETECH_EXTEND_YSSYK1:
   item-id: QUARTZ_BLOCK
   item-amount: 1
   placeable: false
-  crafting-recipe-type: COMPRESSOR
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
       type: VANILLA
@@ -3230,7 +3231,7 @@ HIWORLD_ORETECH_EXTEND_YSSYK2:
   item-id: QUARTZ_BLOCK
   item-amount: 1
   placeable: false
-  crafting-recipe-type: COMPRESSOR
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
       type: SLIMEFUN
@@ -3277,7 +3278,7 @@ HIWORLD_ORETECH_EXTEND_YSSYK3:
   item-id: QUARTZ_BLOCK
   item-amount: 1
   placeable: false
-  crafting-recipe-type: COMPRESSOR
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
       type: SLIMEFUN
@@ -3324,7 +3325,7 @@ HIWORLD_ORETECH_EXTEND_YSSYK4:
   item-id: QUARTZ_BLOCK
   item-amount: 1
   placeable: false
-  crafting-recipe-type: COMPRESSOR
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
       type: SLIMEFUN
@@ -3371,7 +3372,7 @@ HIWORLD_ORETECH_EXTEND_YSSYK5:
   item-id: QUARTZ_BLOCK
   item-amount: 1
   placeable: false
-  crafting-recipe-type: COMPRESSOR
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
       type: SLIMEFUN
@@ -3418,7 +3419,7 @@ HIWORLD_ORETECH_EXTEND_YSSYK6:
   item-id: QUARTZ_BLOCK
   item-amount: 1
   placeable: false
-  crafting-recipe-type: COMPRESSOR
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
       type: SLIMEFUN
@@ -3465,7 +3466,7 @@ HIWORLD_ORETECH_EXTEND_YSSYK7:
   item-id: QUARTZ_BLOCK
   item-amount: 1
   placeable: false
-  crafting-recipe-type: COMPRESSOR
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
       type: SLIMEFUN
@@ -3512,7 +3513,7 @@ HIWORLD_ORETECH_EXTEND_YSSYK8:
   item-id: QUARTZ_BLOCK
   item-amount: 1
   placeable: false
-  crafting-recipe-type: COMPRESSOR
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
       type: SLIMEFUN
@@ -3560,7 +3561,7 @@ HIWORLD_ORETECH_EXTEND_YSSYK9:
   item-id: QUARTZ_BLOCK
   item-amount: 1
   placeable: false
-  crafting-recipe-type: COMPRESSOR
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
       type: SLIMEFUN
@@ -3607,7 +3608,7 @@ HIWORLD_ORETECH_EXTEND_YSQJSK1:
   item-id: LAPIS_BLOCK
   item-amount: 1
   placeable: false
-  crafting-recipe-type: COMPRESSOR
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
       type: VANILLA
@@ -3654,7 +3655,7 @@ HIWORLD_ORETECH_EXTEND_YSQJSK2:
   item-id: LAPIS_BLOCK
   item-amount: 1
   placeable: false
-  crafting-recipe-type: COMPRESSOR
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
       type: SLIMEFUN
@@ -3701,7 +3702,7 @@ HIWORLD_ORETECH_EXTEND_YSQJSK3:
   item-id: LAPIS_BLOCK
   item-amount: 1
   placeable: false
-  crafting-recipe-type: COMPRESSOR
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
       type: SLIMEFUN
@@ -3748,7 +3749,7 @@ HIWORLD_ORETECH_EXTEND_YSQJSK4:
   item-id: LAPIS_BLOCK
   item-amount: 1
   placeable: false
-  crafting-recipe-type: COMPRESSOR
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
       type: SLIMEFUN
@@ -3795,7 +3796,7 @@ HIWORLD_ORETECH_EXTEND_YSQJSK5:
   item-id: LAPIS_BLOCK
   item-amount: 1
   placeable: false
-  crafting-recipe-type: COMPRESSOR
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
       type: SLIMEFUN
@@ -3842,7 +3843,7 @@ HIWORLD_ORETECH_EXTEND_YSQJSK6:
   item-id: LAPIS_BLOCK
   item-amount: 1
   placeable: false
-  crafting-recipe-type: COMPRESSOR
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
       type: SLIMEFUN
@@ -3889,7 +3890,7 @@ HIWORLD_ORETECH_EXTEND_YSQJSK7:
   item-id: LAPIS_BLOCK
   item-amount: 1
   placeable: false
-  crafting-recipe-type: COMPRESSOR
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
       type: SLIMEFUN
@@ -3936,7 +3937,7 @@ HIWORLD_ORETECH_EXTEND_YSQJSK8:
   item-id: LAPIS_BLOCK
   item-amount: 1
   placeable: false
-  crafting-recipe-type: COMPRESSOR
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
       type: SLIMEFUN
@@ -3984,7 +3985,7 @@ HIWORLD_ORETECH_EXTEND_YSQJSK9:
   item-id: LAPIS_BLOCK
   item-amount: 1
   placeable: false
-  crafting-recipe-type: COMPRESSOR
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
       type: SLIMEFUN
